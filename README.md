@@ -21,7 +21,7 @@ All files can be edited directly on github.com (pencil icon), or locally in RStu
 
 `publications.yml` is refreshed every Monday and Thursday by the workflow "Update publications from Google Scholar", which runs `R/update_publications.R` and then republishes the site. You can also start it by hand under Actions, or run the script locally with `source("R/update_publications.R")`.
 
-The script reads the Scholar profile, refreshes citation counts, appends new papers and fills in DOIs and open-access PDF links through OpenAlex. If Scholar refuses the request, new papers are found through OpenAlex and your ORCID iD instead. Fields you add by hand are never overwritten. Titles listed in `R/scholar_skip.txt` (one per line) are never imported.
+The script reads the Scholar profile, refreshes citation counts, appends new papers and fills in DOIs and open-access PDF links through OpenAlex. It also searches PubMed by author name on every run, so new papers arrive even when Scholar refuses requests from GitHub's servers. Fields you add by hand are never overwritten. Titles listed in `R/scholar_skip.txt` (one per line) are never imported.
 
 Per paper you can add:
 

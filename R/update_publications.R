@@ -8,8 +8,9 @@
 # What it does
 #   1. Reads the Google Scholar profile, refreshes citation counts and
 #      appends papers that are not yet in publications.yml.
-#   2. If Scholar refuses the request (it sometimes blocks servers), new
-#      papers are found through OpenAlex using the ORCID iD instead.
+#      Scholar often refuses requests from GitHub's servers; the script
+#      then carries on without it.
+#   2. Searches PubMed for new papers by author name (always).
 #   3. Looks up each paper in OpenAlex to fill in a missing DOI, journal,
 #      full author list and a link to a legal open-access PDF.
 # Entries are never removed, and fields already filled in by hand (pdf,
@@ -23,7 +24,7 @@ library(yaml)
 library(jsonlite)
 
 scholar_id <- "iDfs_P4AAAAJ"
-orcid      <- "0000-0001-8880-4879"
+pubmed_query <- "Jensen KHR[Author] OR Reveles Jensen KH[Author] OR Reveles Jensen K[Author]"
 pubs_file  <- "publications.yml"
 skip_file  <- "R/scholar_skip.txt"
 
@@ -44,13 +45,14 @@ closest <- function(key, keys, tolerance = 0.15) {
 
 is_blank <- function(x) is.null(x) || length(x) == 0 || all(is.na(x)) || identical(x, "")
 
-openalex <- function(path) {
-  url <- str_c("https://api.openalex.org/", path)
+get_json <- function(url) {
   tryCatch(
     fromJSON(url, simplifyVector = FALSE),
     error = \(e) NULL
   )
 }
+
+openalex <- function(path) get_json(str_c("https://api.openalex.org/", path))
 
 work_fields <- "id,doi,title,type,publication_date,publication_year,primary_location,best_oa_location,open_access,authorships"
 
@@ -90,8 +92,11 @@ n_new     <- 0
 # 1. Google Scholar -------------------------------------------------------
 
 scholar_raw <- tryCatch(
-  suppressWarnings(get_publications(scholar_id, flush = TRUE)),
-  error = \(e) NULL
+  get_publications(scholar_id, flush = TRUE),
+  error = \(e) {
+    message("Google Scholar error: ", conditionMessage(e))
+    NULL
+  }
 )
 scholar_ok <- is.data.frame(scholar_raw) && nrow(scholar_raw) > 0
 
@@ -131,24 +136,62 @@ if (scholar_ok) {
     }
   }
 } else {
-  message("::warning::Google Scholar did not answer this time; looking for new papers through OpenAlex instead.")
+  message("::warning::Google Scholar did not answer this time; citation counts were not refreshed.")
+}
 
-  # 2. Fallback: new journal articles listed under the ORCID iD -------------
-  res <- openalex(str_c(
-    "works?filter=author.orcid:", orcid, ",type:article|review",
-    "&sort=publication_date:desc&per-page=50&select=", work_fields
-  ))
-  for (w in res$results %||% list()) {
-    if (is_blank(w$title) || is_blank(w$doi) || is_blank(w$primary_location$source$display_name)) next
-    new  <- from_openalex(w)
-    key  <- make_key(new$title)
+# 2. PubMed ---------------------------------------------------------------
+
+eutils <- "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
+found  <- get_json(str_c(
+  eutils, "esearch.fcgi?db=pubmed&retmode=json&retmax=200&term=",
+  URLencode(pubmed_query, reserved = TRUE)
+))
+pmids     <- unlist(found$esearchresult$idlist) %||% character()
+known     <- map_chr(pubs, \(p) as.character(p$pmid %||% ""))
+new_pmids <- setdiff(pmids, known)
+
+if (length(new_pmids) > 0) {
+  summaries <- get_json(str_c(
+    eutils, "esummary.fcgi?db=pubmed&retmode=json&id=", str_c(new_pmids, collapse = ",")
+  ))$result
+
+  for (id in new_pmids) {
+    r <- summaries[[id]]
+    if (is_blank(r$title)) next
+    title <- r$title |> str_remove("\\.$")
+    key   <- make_key(title)
+    doi   <- r$articleids |>
+      keep(\(a) identical(a$idtype, "doi")) |>
+      map_chr("value") |>
+      first()
+    if (key %in% skip_keys) next
+
     dois <- map_chr(pubs, \(p) str_to_lower(p$doi %||% ""))
-    if (key %in% skip_keys || str_to_lower(new$doi) %in% dois || !is.na(closest(key, keys()))) next
-    new$url    <- str_c("https://doi.org/", new$doi)
-    new$source <- "openalex"
-    pubs[[length(pubs) + 1]] <- compact(new)
+    j <- if (!is.na(doi) && str_to_lower(doi) %in% dois) match(str_to_lower(doi), dois) else closest(key, keys())
+
+    if (!is.na(j)) {
+      # Already listed (for example found on Scholar first): add the PubMed details
+      pubs[[j]]$pmid <- id
+      if (!is.na(doi) && is_blank(pubs[[j]]$doi)) {
+        pubs[[j]]$doi <- doi
+        pubs[[j]]$url <- str_c("https://doi.org/", doi)
+      }
+      next
+    }
+
+    pubs[[length(pubs) + 1]] <- compact(list(
+      title   = title,
+      author  = r$authors |> map_chr("name") |> str_c(collapse = ", "),
+      journal = r$fulljournalname,
+      year    = as.integer(str_sub(r$sortpubdate, 1, 4)),
+      date    = r$sortpubdate |> str_sub(1, 10) |> str_replace_all("/", "-"),
+      pmid    = id,
+      doi     = if (is.na(doi)) NULL else doi,
+      url     = if (is.na(doi)) str_c("https://pubmed.ncbi.nlm.nih.gov/", id, "/") else str_c("https://doi.org/", doi),
+      source  = "pubmed"
+    ))
     n_new <- n_new + 1
-    message("New from OpenAlex: ", new$title)
+    message("New from PubMed: ", title)
   }
 }
 
@@ -164,10 +207,10 @@ for (j in seq_along(pubs)) {
   } else {
     res <- openalex(str_c(
       "works?search=", URLencode(p$title, reserved = TRUE),
-      "&filter=author.orcid:", orcid, "&per-page=1&select=", work_fields
+      "&per-page=1&select=", work_fields
     ))
     hit <- if (length(res$results) > 0) res$results[[1]] else NULL
-    if (!is.null(hit) && !is.na(closest(make_key(hit$title %||% ""), make_key(p$title)))) w <- hit
+    if (!is.null(hit) && !is.na(closest(make_key(hit$title %||% ""), make_key(p$title), tolerance = 0.05))) w <- hit
   }
   if (is.null(w) || is_blank(w$title)) next
 

@@ -8,22 +8,8 @@
 #   preregistration: link to the preregistration (AsPredicted, OSF, PROSPERO), or true if there is no public link
 #   preclinical:     short label for animal or in vitro work, e.g. mouse
 #   hide:            true to keep a paper off the site
-- title: 'Community Pharmacists’ Confidence, Barriers, and Educational Needs for Continuous
-    Glucose Monitoring Counseling: A Cross-Sectional Survey'
-  author: Kathryn P. Lin, Criseve Montez, TERRY WEAVER, Lindsey J. Loera, Kelly R.
-    Reveles, Morgan P. Stewart
-  journal: Pharmacy
-  year: 2026
-  date: '2026-11-07'
-  doi: 10.3390/pharmacy14080167
-  oa_url: https://doi.org/10.3390/pharmacy14080167
-  url: https://doi.org/10.3390/pharmacy14080167
-  source: openalex
 - title: Investigating molecular and hemodynamic effects of LSD in the human brain
-  author: McCulloch DE, Larsen K, Johansen A, Reveles Jensen KH, Nykjær CH, Holze
-    F, Falck N, Neufeld V, Steenstrup E, Skov-Andersen P, Spanggård A, Geisler M,
-    Randrup PP, Jensen PS, Shalgunov V, Johansen SS, Nielsen MKK, Andersen TL, Stenbæk
-    DS, Svarer C, Fisher PM, Knudsen GM
+  author: McCulloch DE, Larsen K, Johansen A, Reveles Jensen KH, Nykjær CH, Holze F, Falck N, Neufeld V, Steenstrup E, Skov-Andersen P, Spanggård A, Geisler M, Randrup PP, Jensen PS, Shalgunov V, Johansen SS, Nielsen MKK, Andersen TL, Stenbæk DS, Svarer C, Fisher PM, Knudsen GM
   journal: Nature Neuroscience
   year: 2026
   date: '2026-10-01'
@@ -31,8 +17,7 @@
   doi: 10.1038/s41593-026-02462-2
   url: https://doi.org/10.1038/s41593-026-02462-2
   oa_url: https://doi.org/10.1101/2025.06.17.25329677
-- title: 'A stable prevalence hides case turnover: reclassifying depression from ICD-10
-    to ICD-11 in a Danish general-population sample'
+- title: 'A stable prevalence hides case turnover: reclassifying depression from ICD-10 to ICD-11 in a Danish general-population sample'
   author: Jensen KHR
   journal: Journal of Affective Disorders
   year: 2026
@@ -41,8 +26,7 @@
   doi: 10.1016/j.jad.2026.122556
   url: https://doi.org/10.1016/j.jad.2026.122556
   oa_url: https://doi.org/10.1016/j.jad.2026.122556
-- title: 'Replication of sensory anhedonia as a predictor of escitalopram response:
-    evidence from the NeuroPharm study'
+- title: 'Replication of sensory anhedonia as a predictor of escitalopram response: evidence from the NeuroPharm study'
   author: Andersen MT, Fuglsang-Damgaard A, Frokjaer VG, Jørgensen MB, Jensen KHR
   journal: Psychological Medicine
   year: 2026
@@ -51,8 +35,7 @@
   doi: 10.1017/S0033291726105650
   url: https://doi.org/10.1017/S0033291726105650
   pdf: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/44CEF80A1D057192003391B939F30E77/S0033291726105650a.pdf/div-class-title-replication-of-sensory-anhedonia-as-a-predictor-of-escitalopram-response-evidence-from-the-neuropharm-study-div.pdf
-- title: 'Nature, nurture, and 5-HT4R: Familial predisposition, not parental bonding,
-    is associated with brain 5-HT4R in a sex-specific manner'
+- title: 'Nature, nurture, and 5-HT4R: Familial predisposition, not parental bonding, is associated with brain 5-HT4R in a sex-specific manner'
   author: Kjær RT, Jørgensen MB, Jensen KHR
   journal: Psychiatry and Clinical Neurosciences
   year: 2026
@@ -62,42 +45,7 @@
   url: https://doi.org/10.1111/pcn.70112
   pmc: PMC13732787
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC13732787/pdf/
-- title: 'From primates to people: Mapping host-microbiome-health relationships in
-    aging'
-  author: Angélica M. Olmo-Fontánez, Kelly R. Reveles, Riti Sharan, Ian Cheeseman,
-    Kimberley A. Phillips, Kolbi L. Wolford, Corinna N. Ross
-  journal: Ageing Research Reviews
-  year: 2026
-  date: '2026-07-28'
-  doi: 10.1016/j.arr.2026.103278
-  oa_url: https://doi.org/10.1016/j.arr.2026.103278
-  url: https://doi.org/10.1016/j.arr.2026.103278
-  source: openalex
-- title: Efficacy Outcomes of Fecal Microbiota, Live-jslm in Preventing Recurrent
-    Clostridioides difficile Infection from Seven Clinical Studies
-  author: Teena Chopra, Daniel Van Handel, Brian B. Baggott, Robert Orenstein, Kelly
-    R. Reveles, Beth Guthmueller, Shivam Srivastava, Sahil Khanna
-  journal: Infectious Diseases and Therapy
-  year: 2026
-  date: '2026-06-12'
-  doi: 10.1007/s40121-026-01374-9
-  pdf: https://link.springer.com/content/pdf/10.1007/s40121-026-01374-9.pdf
-  oa_url: https://link.springer.com/content/pdf/10.1007/s40121-026-01374-9.pdf
-  url: https://doi.org/10.1007/s40121-026-01374-9
-  source: openalex
-- title: 'Sal330 A REAL-WORLD PATIENT REGISTRY STUDY OF ADULTS RECEIVING FECAL MICROBIOTA,
-    LIVE-JSLM FOR THE PREVENTION OF RECURRENT CLOSTRIDIOIDES DIFFICILE INFECTION:
-    REBYOTA PROSPECTIVE REGISTRY (ROAR)'
-  author: Teena Chopra, Kelly R. Reveles, Nicholas Van Hise, Mads Raad, Lorien E.
-    Urban, Sahil Khanna
-  journal: Gastrointestinal Endoscopy
-  year: 2026
-  date: '2026-05-01'
-  doi: 10.1016/s0016-5107(26)00747-9
-  url: https://doi.org/10.1016/s0016-5107(26)00747-9
-  source: openalex
-- title: 'Pineal Gland Volume, Sleep Quality, and Psychiatric Disorders: A Systematic
-    Review and Meta-Analysis'
+- title: 'Pineal Gland Volume, Sleep Quality, and Psychiatric Disorders: A Systematic Review and Meta-Analysis'
   author: Bolwig S, Jensen KHR
   journal: Acta Psychiatrica Scandinavica
   year: 2026
@@ -108,11 +56,8 @@
   pmc: PMC13242971
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC13242971/pdf/
   preregistration: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251138624
-- title: 'Prefrontal and hippocampal microstructural gray matter following cognitive
-    training under moderate hypoxia in mood disorders: a randomized controlled trial'
-  author: Jensen KHR, Østergaard IP, Damgaard V, Schandorff JM, Macoveanu J, Pernet
-    C, Julsgart HW, Johansen A, Brendstrup-Brix K, Kessing LV, Jørgensen MB, Ehrenreich
-    H, Knudsen GM, Miskowiak K
+- title: 'Prefrontal and hippocampal microstructural gray matter following cognitive training under moderate hypoxia in mood disorders: a randomized controlled trial'
+  author: Jensen KHR, Østergaard IP, Damgaard V, Schandorff JM, Macoveanu J, Pernet C, Julsgart HW, Johansen A, Brendstrup-Brix K, Kessing LV, Jørgensen MB, Ehrenreich H, Knudsen GM, Miskowiak K
   journal: Frontiers in Neuroscience
   year: 2026
   date: '2026-04-01'
@@ -121,19 +66,7 @@
   url: https://doi.org/10.3389/fnins.2026.1798024
   pmc: PMC13099808
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC13099808/pdf/
-- title: Increasing Buprenorphine and Naloxone Access in Texas Community Pharmacies
-    Through an Academic Detailing Intervention
-  author: Sorina B. Torrez, Kirk E. Evoy, Kelly R. Reveles, Lucas G. Hill, Kenneth
-    A. Lawson, Lindsey J. Loera
-  journal: Substance Use &amp Addiction Journal
-  year: 2026
-  date: '2026-03-17'
-  doi: 10.1177/29767342261422061
-  oa_url: https://doi.org/10.1177/29767342261422061
-  url: https://doi.org/10.1177/29767342261422061
-  source: openalex
-- title: Genetic, epigenetic, and electrophysiological markers of serotonergic function
-    and SSRI-related nausea
+- title: Genetic, epigenetic, and electrophysiological markers of serotonergic function and SSRI-related nausea
   author: Andersen MT, Nielsen KG, Bruzzone SEP, Ip CT, Jørgensen MB, Jensen KHR
   journal: Journal of Affective Disorders
   year: 2026
@@ -141,19 +74,8 @@
   pmid: '41881120'
   doi: 10.1016/j.jad.2026.121673
   url: https://doi.org/10.1016/j.jad.2026.121673
-- title: '435: COMPARISON OF ANTICOAGULATION STRATEGIES IN CEREBRAL VENOUS THROMBOSIS'
-  author: Ryan Bloesser, Crystal Franco-Martinez, Caroline Conner, Kelly R. Reveles,
-    Colleen A. Barthol
-  journal: Critical Care Medicine
-  year: 2026
-  date: '2026-03-01'
-  doi: 10.1097/01.ccm.0001183736.20746.38
-  url: https://doi.org/10.1097/01.ccm.0001183736.20746.38
-  source: openalex
-- title: Hormonal contraceptives and EEG biomarkers for antidepressant treatment response
-    in women
-  author: Jensen KHR, Juvik AK, Larsen SV, Andersen MT, Frokjaer VG, Jørgensen MB,
-    Ip CT
+- title: Hormonal contraceptives and EEG biomarkers for antidepressant treatment response in women
+  author: Jensen KHR, Juvik AK, Larsen SV, Andersen MT, Frokjaer VG, Jørgensen MB, Ip CT
   journal: Communications Medicine
   year: 2026
   date: '2026-02-01'
@@ -162,8 +84,7 @@
   url: https://doi.org/10.1038/s43856-026-01438-4
   pmc: PMC13039146
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC13039146/pdf/
-- title: Brain 5-HT4 receptor, gastrointestinal symptoms, and SSRI-related nausea
-    in depression
+- title: Brain 5-HT4 receptor, gastrointestinal symptoms, and SSRI-related nausea in depression
   author: Nielsen KG, Köhler-Forsberg K, Jørgensen MB, Froekjaer VG, Jensen KHR
   journal: European Neuropsychopharmacology
   year: 2025
@@ -171,10 +92,8 @@
   pmid: '41456530'
   doi: 10.1016/j.euroneuro.2025.112744
   url: https://doi.org/10.1016/j.euroneuro.2025.112744
-- title: Serotonergic activity estimated by EEG loudness-dependent auditory evoked
-    potentials as a predictor of sexual SSRI side effects
-  author: Ketilsdottir GD, Ip CT, Frokjaer VG, Giraldi A, Jørgensen MB, Reveles Jensen
-    KH
+- title: Serotonergic activity estimated by EEG loudness-dependent auditory evoked potentials as a predictor of sexual SSRI side effects
+  author: Ketilsdottir GD, Ip CT, Frokjaer VG, Giraldi A, Jørgensen MB, Reveles Jensen KH
   journal: Journal of Psychiatric Research
   year: 2025
   date: '2025-11-01'
@@ -182,29 +101,6 @@
   doi: 10.1016/j.jpsychires.2025.11.002
   url: https://doi.org/10.1016/j.jpsychires.2025.11.002
   oa_url: https://doi.org/10.1016/j.jpsychires.2025.11.002
-- title: 'Fecal Microbiota Transplantation in Animals: Therapeutics, Conservation,
-    and Farming'
-  author: Kelly R. Reveles, Joni Meehan, Glenn Tillotson
-  journal: Microorganisms
-  year: 2025
-  date: '2025-10-29'
-  doi: 10.3390/microorganisms13112465
-  pdf: https://www.mdpi.com/2076-2607/13/11/2465/pdf?version=1761705722
-  oa_url: https://www.mdpi.com/2076-2607/13/11/2465/pdf?version=1761705722
-  url: https://doi.org/10.3390/microorganisms13112465
-  source: openalex
-- title: 'Role of the skilled nursing facility in Clostridioides difficile infection
-    transitions of care: A retrospective cohort study of US hospitals'
-  author: Kelly R. Reveles, Kelsey A. Strey, Cory R. Evans, Diego Sierra, Victor Herrera,
-    Glenn Tillotson
-  journal: American Journal of Infection Control
-  year: 2025
-  date: '2025-10-24'
-  doi: 10.1016/j.ajic.2025.10.012
-  pdf: https://www.ajicjournal.org/article/S0196-6553(25)00677-7/pdf
-  oa_url: https://www.ajicjournal.org/article/S0196-6553(25)00677-7/pdf
-  url: https://doi.org/10.1016/j.ajic.2025.10.012
-  source: openalex
 - title: 'Letter to the editor: Needling critical details in acupuncture for delirium'
   author: Jensen KHR
   journal: Journal of Psychiatric Research
@@ -213,22 +109,8 @@
   pmid: '41152057'
   doi: 10.1016/j.jpsychires.2025.10.036
   url: https://doi.org/10.1016/j.jpsychires.2025.10.036
-- title: Guideline-concordant antibiotic prescribing for community-acquired bacterial
-    pneumonia (CABP) due to drug-resistant pathogens in the All of Us database
-  author: Corbyn M. Gilmore, Adriana M Vargus, Grace C. Lee, Susanne Schmidt, Kelly
-    R. Reveles, Carlos A. Álvarez, Christopher Raymond Frei
-  journal: Journal of Clinical and Translational Science
-  year: 2025
-  date: '2025-09-02'
-  doi: 10.1017/cts.2025.10143
-  pdf: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6AC5E36FB366D151BD43F4C400C277AD/S205986612510143Xa.pdf/div-class-title-guideline-concordant-antibiotic-prescribing-for-community-acquired-bacterial-pneumonia-cabp-due-to-drug-resistant-pathogens-in-the-span-class-italic-all-of-us-span-database-div.pdf
-  oa_url: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6AC5E36FB366D151BD43F4C400C277AD/S205986612510143Xa.pdf/div-class-title-guideline-concordant-antibiotic-prescribing-for-community-acquired-bacterial-pneumonia-cabp-due-to-drug-resistant-pathogens-in-the-span-class-italic-all-of-us-span-database-div.pdf
-  url: https://doi.org/10.1017/cts.2025.10143
-  source: openalex
-- title: 'Treatment preferences and self-stigma in depression: Development and validation
-    of the brief ATDT-SF'
-  author: Jensen KHR, Sørensen M, Spanggård A, Juvik AK, Olsen S, Dam VH, Jørgensen
-    MB
+- title: 'Treatment preferences and self-stigma in depression: Development and validation of the brief ATDT-SF'
+  author: Jensen KHR, Sørensen M, Spanggård A, Juvik AK, Olsen S, Dam VH, Jørgensen MB
   journal: Journal of Affective Disorders
   year: 2025
   date: '2025-09-01'
@@ -236,33 +118,8 @@
   doi: 10.1016/j.jad.2025.120233
   url: https://doi.org/10.1016/j.jad.2025.120233
   oa_url: https://doi.org/10.1016/j.jad.2025.120233
-- title: 'Assessing the accessibility and accuracy of pharmacist counseling for continuous
-    glucose monitoring: A secret shopper study of community pharmacies'
-  author: Morgan P. Stewart, Lindsey J. Loera, Bruno Onwukwe, Kelly R. Reveles, Kathryn
-    P. Lin
-  journal: Journal of the American Pharmacists Association
-  year: 2025
-  date: '2025-08-05'
-  doi: 10.1016/j.japh.2025.102493
-  url: https://doi.org/10.1016/j.japh.2025.102493
-  source: openalex
-- title: Validation of Body Condition Scoring as a Screening Test for Low Body Condition
-    and Obesity in Common Marmosets ( Callithrix jacchus )
-  author: Juan Pablo Arroyo, Addaline Alvarez, Lori Alvarez, Alexana J. Hickmott,
-    Aaryn C. Mustoe, Kathy Brasky, Kelly R. Reveles, Benjamin J. Ridenhour, Katherine
-    Ryan Amato, Michael L. Power, Corinna N. Ross
-  journal: American Journal of Primatology
-  year: 2025
-  date: '2025-08-01'
-  doi: 10.1002/ajp.70068
-  pdf: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ajp.70068
-  oa_url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ajp.70068
-  url: https://doi.org/10.1002/ajp.70068
-  source: openalex
-- title: Sex hormones and serotonin 4 receptor brain binding in men with and without
-    major depressive disorder
-  author: Aarestrup MR, Reveles Jensen KH, Larsen SV, Ozenne B, Köhler-Forsberg K,
-    Knudsen GM, Jørgensen MB, Frokjaer VG
+- title: Sex hormones and serotonin 4 receptor brain binding in men with and without major depressive disorder
+  author: Aarestrup MR, Reveles Jensen KH, Larsen SV, Ozenne B, Köhler-Forsberg K, Knudsen GM, Jørgensen MB, Frokjaer VG
   journal: Neuroscience Applied
   year: 2025
   date: '2025-02-01'
@@ -271,8 +128,7 @@
   url: https://doi.org/10.1016/j.nsa.2025.105517
   pmc: PMC12244137
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC12244137/pdf/
-- title: Gender-stratified national mental health norms of BSI-53, BSI-18, SCL-10,
-    ADHD-9, and ADHD-6 for Denmark
+- title: Gender-stratified national mental health norms of BSI-53, BSI-18, SCL-10, ADHD-9, and ADHD-6 for Denmark
   author: Jensen KHR
   journal: Nordic Journal of Psychiatry
   year: 2024
@@ -280,8 +136,7 @@
   pmid: '39731316'
   doi: 10.1080/08039488.2024.2435515
   url: https://doi.org/10.1080/08039488.2024.2435515
-- title: Loudness dependent auditory evoked potentials and suicidality in depression
-    - A meta-analysis with replication in unmedicated patients
+- title: Loudness dependent auditory evoked potentials and suicidality in depression - A meta-analysis with replication in unmedicated patients
   author: Tyron JM, Ip CT, Jørgensen MB, Jensen KHR
   journal: Journal of Affective Disorders
   year: 2024
@@ -291,10 +146,8 @@
   url: https://doi.org/10.1016/j.jad.2024.11.073
   preregistration: true
   oa_url: https://doi.org/10.1016/j.jad.2024.11.073
-- title: Changes in hippocampal volume, 5-HT4 receptor binding, and verbal memory
-    over the course of antidepressant treatment in major depressive disorder
-  author: Jensen KHR, Dam VH, Köhler-Forsberg K, Ozenne B, Stenbæk DS, Ganz M, Fisher
-    PM, Frokjaer VG, Knudsen GM, Jørgensen MB
+- title: Changes in hippocampal volume, 5-HT4 receptor binding, and verbal memory over the course of antidepressant treatment in major depressive disorder
+  author: Jensen KHR, Dam VH, Köhler-Forsberg K, Ozenne B, Stenbæk DS, Ganz M, Fisher PM, Frokjaer VG, Knudsen GM, Jørgensen MB
   journal: Journal of Psychiatric Research
   year: 2024
   date: '2024-11-01'
@@ -302,71 +155,8 @@
   doi: 10.1016/j.jpsychires.2024.11.043
   url: https://doi.org/10.1016/j.jpsychires.2024.11.043
   oa_url: https://doi.org/10.1016/j.jpsychires.2024.11.043
-- title: TXA combined with whole blood transfusion in trauma patients does not increase
-    the risk of VTE but shock index does
-  author: John C. Myers, Samantha Murphy, David Limon, Christian Gerhardus, Lauran
-    Barry, Erika Paola Brigmon, Brian J. Eastridge, Maxwell A. Braverman, Kelly R.
-    Reveles, Susannah E. Nicholson, Donald H. Jenkins
-  journal: The American Journal of Surgery
-  year: 2024
-  date: '2024-08-28'
-  doi: 10.1016/j.amjsurg.2024.115931
-  url: https://doi.org/10.1016/j.amjsurg.2024.115931
-  source: openalex
-- title: Retrospective, propensity score--matched study examining the relationship
-    between frailty and Clostridioides difficile infection in a national cohort of
-    US veterans
-  author: Kelly R. Reveles, Kelsey A. Strey, Esther L. Albuquerque, Damaris Jacota,
-    Xavier Jones, Joseph J. Carreno
-  journal: American Journal of Infection Control
-  year: 2024
-  date: '2024-08-26'
-  doi: 10.1016/j.ajic.2024.08.020
-  pdf: https://www.ajicjournal.org/article/S0196-6553(24)00687-4/pdf
-  oa_url: https://www.ajicjournal.org/article/S0196-6553(24)00687-4/pdf
-  url: https://doi.org/10.1016/j.ajic.2024.08.020
-  source: openalex
-- title: 'Efficacy of Fecal Microbiota, Live-jslm (REBYOTA®), Among Patients Exposed
-    to Non–Clostridioides difficile Infection Antibiotics: Post Hoc Subgroup Analysis
-    of a Phase 2 Open-Label Study'
-  author: Kelly R. Reveles, Anne J Gonzales-Luna, Yoav Golan, Carolyn D. Alonso, Beth
-    Guthmueller, Xing Tan, Monique R. Bidell, Victoria Pokhilko, Carl V. Crawford,
-    Andrew M Skinner
-  journal: Open Forum Infectious Diseases
-  year: 2024
-  date: '2024-06-14'
-  doi: 10.1093/ofid/ofae341
-  oa_url: https://doi.org/10.1093/ofid/ofae341
-  url: https://doi.org/10.1093/ofid/ofae341
-  source: openalex
-- title: National Outpatient Sexually Transmitted Infection Testing in Pregnant Patients
-    in the United States
-  author: Kelsey A. Strey, Hannah C. Angeles, Vidal M Mendoza, Kelly R. Reveles
-  journal: Journal of Women s Health
-  year: 2024
-  date: '2024-05-08'
-  doi: 10.1089/jwh.2023.0865
-  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC11698657/pdf/jwh.2023.0865.pdf
-  oa_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11698657/pdf/jwh.2023.0865.pdf
-  url: https://doi.org/10.1089/jwh.2023.0865
-  source: openalex
-- title: Developing the Common Marmoset as a Translational Geroscience Model to Study
-    the Microbiome and Healthy Aging
-  author: Kelly R. Reveles, Alexana J. Hickmott, Kelsey A. Strey, Aaryn C. Mustoe,
-    Juan Pablo Arroyo, Michael L. Power, Benjamin J. Ridenhour, Katherine Ryan Amato,
-    Corinna N. Ross
-  journal: Microorganisms
-  year: 2024
-  date: '2024-04-25'
-  doi: 10.3390/microorganisms12050852
-  pdf: https://www.mdpi.com/2076-2607/12/5/852/pdf?version=1714033263
-  oa_url: https://www.mdpi.com/2076-2607/12/5/852/pdf?version=1714033263
-  url: https://doi.org/10.3390/microorganisms12050852
-  source: openalex
 - title: High incidence of imperforate vagina in ADGRA3-deficient mice
-  author: Kvam JM, Nybo ML, Torz L, Sustarsic RK, Jensen KHR, Nielsen JE, Frederiksen
-    H, Gadgaard S, Spiess K, Poulsen SS, Thomsen JS, Cowin P, Blomberg Jensen M, Kurita
-    T, Rosenkilde MM
+  author: Kvam JM, Nybo ML, Torz L, Sustarsic RK, Jensen KHR, Nielsen JE, Frederiksen H, Gadgaard S, Spiess K, Poulsen SS, Thomsen JS, Cowin P, Blomberg Jensen M, Kurita T, Rosenkilde MM
   journal: BMC Biology
   year: 2024
   date: '2024-04-01'
@@ -376,9 +166,7 @@
   pmc: PMC11003089
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC11003089/pdf/
   preclinical: mouse
-- title: No association between serotonin 4 receptor brain binding and personality
-    trait Neuroticism - A positron emission tomography study in depressed patients
-    and healthy individuals
+- title: No association between serotonin 4 receptor brain binding and personality trait Neuroticism - A positron emission tomography study in depressed patients and healthy individuals
   author: Mikkelsen AT, Reveles Jensen KH, Jørgensen MB, Frokjaer VG, Dam VH
   journal: Neuroscience Applied
   year: 2024
@@ -388,24 +176,8 @@
   url: https://doi.org/10.1016/j.nsa.2024.104054
   pmc: PMC12244141
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC12244141/pdf/
-- title: Diverse Role of blaCTX-M and Porins in Mediating Ertapenem Resistance among
-    Carbapenem-Resistant Enterobacterales
-  author: Cody A. Black, Raymond Benavides, Sarah M. Bandy, Steven D. Dallas, Gerard
-    W. Gawrys, Wonhee So, Alvaro G. Moreira, Samantha Aguilar, Kevin Quidilla, Dan
-    F. Smelter, Kelly R. Reveles, Christopher Raymond Frei, Jim M. Koeller, Grace
-    C. Lee
-  journal: Antibiotics
-  year: 2024
-  date: '2024-02-13'
-  doi: 10.3390/antibiotics13020185
-  pdf: https://www.mdpi.com/2079-6382/13/2/185/pdf?version=1707838504
-  oa_url: https://www.mdpi.com/2079-6382/13/2/185/pdf?version=1707838504
-  url: https://doi.org/10.3390/antibiotics13020185
-  source: openalex
-- title: Psychoneuroendocrine profiles of unmedicated men with major depressive disorder
-    and associations to treatment effects and sexual side-effects
-  author: Jensen KHR, Aarestrup MR, Larsen SV, Köhler-Forsberg K, Knudsen GM, Jørgensen
-    MB, Frokjaer VG
+- title: Psychoneuroendocrine profiles of unmedicated men with major depressive disorder and associations to treatment effects and sexual side-effects
+  author: Jensen KHR, Aarestrup MR, Larsen SV, Köhler-Forsberg K, Knudsen GM, Jørgensen MB, Frokjaer VG
   journal: Neuroscience Applied
   year: 2024
   date: '2024-02-01'
@@ -414,10 +186,8 @@
   url: https://doi.org/10.1016/j.nsa.2024.104050
   pmc: PMC12244185
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC12244185/pdf/
-- title: EEG abnormalities are not associated with poor antidepressant treatment outcome
-    - A NeuroPharm study
-  author: Jensen KHR, Urdanibia-Centelles O, Dam VH, Köhler-Forsberg K, Frokjaer VG,
-    Knudsen GM, Jørgensen MB, Ip CT
+- title: EEG abnormalities are not associated with poor antidepressant treatment outcome - A NeuroPharm study
+  author: Jensen KHR, Urdanibia-Centelles O, Dam VH, Köhler-Forsberg K, Frokjaer VG, Knudsen GM, Jørgensen MB, Ip CT
   journal: European Neuropsychopharmacology
   year: 2023
   date: '2023-12-01'
@@ -425,141 +195,8 @@
   doi: 10.1016/j.euroneuro.2023.11.004
   url: https://doi.org/10.1016/j.euroneuro.2023.11.004
   oa_url: https://doi.org/10.1016/j.euroneuro.2023.11.004
-- title: 'Infectious Inequity: How the Gut Microbiome and Social Determinants of Health
-    May Contribute to Clostridioides difficile Infection Among Racial and Ethnic Minorities'
-  author: Kelly R. Reveles, Kelsey A. Strey, Jacinda C. Abdul‐Mutakabbir, Vidal M
-    Mendoza, Joseph J. Carreno
-  journal: Clinical Infectious Diseases
-  year: 2023
-  date: '2023-12-01'
-  doi: 10.1093/cid/ciad586
-  pdf: https://academic.oup.com/cid/article-pdf/77/Supplement_6/S455/54335861/ciad586.pdf
-  oa_url: https://academic.oup.com/cid/article-pdf/77/Supplement_6/S455/54335861/ciad586.pdf
-  url: https://doi.org/10.1093/cid/ciad586
-  source: openalex
-- title: 2264. Shorter Duration of Visit Associated with Inappropriate Antibiotic
-    Prescribing for Respiratory Tract Infections in a National Sample of Ambulatory
-    Visits, 2009 - 2016
-  author: Vidal M Mendoza, Kelsey A. Strey, Kelly R. Reveles
-  journal: Open Forum Infectious Diseases
-  year: 2023
-  date: '2023-11-27'
-  doi: 10.1093/ofid/ofad500.1886
-  pdf: https://academic.oup.com/ofid/article-pdf/10/Supplement_2/ofad500.1886/53763983/ofad500.1886.pdf
-  oa_url: https://academic.oup.com/ofid/article-pdf/10/Supplement_2/ofad500.1886/53763983/ofad500.1886.pdf
-  url: https://doi.org/10.1093/ofid/ofad500.1886
-  source: openalex
-- title: '2804. Azole versus echinocandin combination therapy for the treatment of
-    invasive mucormycosis: A case series'
-  author: Meera D. Shah, Emily A Gibbons, Gloria Gutierrez, Kelly R. Reveles
-  journal: Open Forum Infectious Diseases
-  year: 2023
-  date: '2023-11-27'
-  doi: 10.1093/ofid/ofad500.2415
-  pdf: https://academic.oup.com/ofid/article-pdf/10/Supplement_2/ofad500.2415/53760231/ofad500.2415.pdf
-  oa_url: https://academic.oup.com/ofid/article-pdf/10/Supplement_2/ofad500.2415/53760231/ofad500.2415.pdf
-  url: https://doi.org/10.1093/ofid/ofad500.2415
-  source: openalex
-- title: '702. Efficacy of Fecal Microbiota, Live-jslm After Receipt of Non–Clostridioides
-    difficile Infection Antibiotics: Post Hoc Subgroup Analysis of a Phase 2 Open-Label
-    Trial'
-  author: Kelly R. Reveles, Anne J Gonzales-Luna, Yoav Golan, Carolyn D. Alonso, Beth
-    Guthmueller, Xing Tan, Monique R. Bidell, Victoria Pokhilko, Carl V. Crawford,
-    Andrew M Skinner
-  journal: Open Forum Infectious Diseases
-  year: 2023
-  date: '2023-11-27'
-  doi: 10.1093/ofid/ofad500.764
-  pdf: https://academic.oup.com/ofid/article-pdf/10/Supplement_2/ofad500.764/53775713/ofad500.764.pdf
-  oa_url: https://academic.oup.com/ofid/article-pdf/10/Supplement_2/ofad500.764/53775713/ofad500.764.pdf
-  url: https://doi.org/10.1093/ofid/ofad500.764
-  source: openalex
-- title: 'Association of Gabapentinoids With Opioid-Related Overdose in the Inpatient
-    Setting: A Single Center Retrospective Case-Control Study'
-  author: Shelby Humpert, Kelly R. Reveles, Kajal Bhakta, Sorina B. Torrez, Kirk E.
-    Evoy
-  journal: Hospital Pharmacy
-  year: 2023
-  date: '2023-10-24'
-  doi: 10.1177/00185787231206522
-  oa_url: https://doi.org/10.1177/00185787231206522
-  url: https://doi.org/10.1177/00185787231206522
-  source: openalex
-- title: Effects of COVID-19 hospitalization rates on the incidence of hospital-acquired
-    Candida central line-associated bloodstream infection
-  author: Delvina Ford, Kelly R. Reveles, Carol Hoban, Samer Koutoubi, José Cadena
-  journal: American Journal of Infection Control
-  year: 2023
-  date: '2023-10-07'
-  doi: 10.1016/j.ajic.2023.10.002
-  url: https://doi.org/10.1016/j.ajic.2023.10.002
-  source: openalex
-- title: 'Impact of intensified inpatient clindamycin stewardship initiatives in three
-    phases: a pilot quasi-experimental study'
-  author: K.C. Gamble, Dusten T T Rose, Rama V. Thyagarajan, Theresa Jaso, Kelly R.
-    Reveles, Kristin E. Mondy
-  journal: Journal of Hospital Infection
-  year: 2023
-  date: '2023-09-30'
-  doi: 10.1016/j.jhin.2023.08.025
-  url: https://doi.org/10.1016/j.jhin.2023.08.025
-  source: openalex
-- title: Changes in oral health during aging in a novel non-human primate model
-  author: Parveez Ahamed Abdul Azees, Hanzhou Wang, Yong‐Hee Patricia Chun, Jason
-    D. Pizzini, David D. Dean, Kelly R. Reveles, Milos Marinkovic, Xiao‐Dong Chen,
-    Adam B. Salmon, Chih‐Ko Yeh
-  journal: GeroScience
-  year: 2023
-  date: '2023-09-29'
-  doi: 10.1007/s11357-023-00939-7
-  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC10828187/pdf/11357_2023_Article_939.pdf
-  oa_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10828187/pdf/11357_2023_Article_939.pdf
-  url: https://doi.org/10.1007/s11357-023-00939-7
-  source: openalex
-- title: Comparative Effectiveness Randomized Clinical Trial Using Next-generation
-    Microbial Sequencing to Direct Prophylactic Antibiotic Choice Before Urologic
-    Stone Lithotripsy Using an Interprofessional Model
-  author: Michael Andre Liss, Kelly R. Reveles, Craig D. Tipton, Jonathan Gelfond,
-    Timothy Tseng
-  journal: European Urology Open Science
-  year: 2023
-  date: '2023-09-28'
-  doi: 10.1016/j.euros.2023.09.008
-  oa_url: https://doi.org/10.1016/j.euros.2023.09.008
-  url: https://doi.org/10.1016/j.euros.2023.09.008
-  source: openalex
-- title: A Survey of Vaping Use, Perceptions, and Access in Adolescents from South-Central
-    Texas Schools
-  author: Bretton A. Gilmore, Corbyn M. Gilmore, Kelly R. Reveles, Jim M. Koeller,
-    Jodi H. Spoor, Bertha E. Flores, Christopher Raymond Frei
-  journal: International Journal of Environmental Research and Public Health
-  year: 2023
-  date: '2023-09-15'
-  doi: 10.3390/ijerph20186766
-  pdf: https://www.mdpi.com/1660-4601/20/18/6766/pdf?version=1694767329
-  oa_url: https://www.mdpi.com/1660-4601/20/18/6766/pdf?version=1694767329
-  url: https://doi.org/10.3390/ijerph20186766
-  source: openalex
-- title: 'Durvalumab Treatment Patterns for Patients with Unresectable Stage III Non-Small
-    Cell Lung Cancer in the Veterans Health Administration (VHA): A Nationwide, Real-World
-    Study'
-  author: Amanda Moore, Zohra I. Nooruddin, Kelly R. Reveles, Paromita Datta, Jennifer
-    M. Aldridge Whitehead, Kathleen Franklin, Munaf Alkadimi, Madison H. Williams,
-    Ryan A. Williams, Sarah M Smith, Renee L. Reichelderfer, Ion Cotarla, Lance Brannman,
-    Andrew J. Frankart, Tiernan J. Mulrooney, Kristin Hsieh, Daniel J. Simmons, Xavier
-    Jones, Christopher Raymond Frei
-  journal: Current Oncology
-  year: 2023
-  date: '2023-09-13'
-  doi: 10.3390/curroncol30090611
-  pdf: https://www.mdpi.com/1718-7729/30/9/611/pdf?version=1694610991
-  oa_url: https://www.mdpi.com/1718-7729/30/9/611/pdf?version=1694610991
-  url: https://doi.org/10.3390/curroncol30090611
-  source: openalex
-- title: 'The BrainDrugs-epilepsy study: A prospective open-label cohort precision
-    medicine study in epilepsy'
-  author: Marstrand-Joergensen MR, Dam VH, Vinter K, Ip CT, Jensen KR, Jørgensen MB,
-    Hoei-Hansen CE, Ozenne B, Fisher PM, Knudsen GM, Pinborg LH
+- title: 'The BrainDrugs-epilepsy study: A prospective open-label cohort precision medicine study in epilepsy'
+  author: Marstrand-Joergensen MR, Dam VH, Vinter K, Ip CT, Jensen KR, Jørgensen MB, Hoei-Hansen CE, Ozenne B, Fisher PM, Knudsen GM, Pinborg LH
   journal: Neuroscience Applied
   year: 2023
   date: '2023-09-01'
@@ -568,59 +205,8 @@
   url: https://doi.org/10.1016/j.nsa.2023.101136
   pmc: PMC12244079
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC12244079/pdf/
-- title: Health Equity in Patients Receiving Durvalumab for Unresectable Stage III
-    Non-Small Cell Lung Cancer in the US Veterans Health Administration
-  author: Amanda Moore, Zohra I. Nooruddin, Kelly R. Reveles, Jim M. Koeller, Jennifer
-    M. Aldridge Whitehead, Kathleen Franklin, Paromita Datta, Munaf Alkadimi, Lance
-    Brannman, Ion Cotarla, Andrew J. Frankart, Tiernan J. Mulrooney, Xavier Jones,
-    Christopher Raymond Frei
-  journal: The Oncologist
-  year: 2023
-  date: '2023-06-19'
-  doi: 10.1093/oncolo/oyad172
-  pdf: https://academic.oup.com/oncolo/advance-article-pdf/doi/10.1093/oncolo/oyad172/50645840/oyad172.pdf
-  oa_url: https://academic.oup.com/oncolo/advance-article-pdf/doi/10.1093/oncolo/oyad172/50645840/oyad172.pdf
-  url: https://doi.org/10.1093/oncolo/oyad172
-  source: openalex
-- title: 'Economic Impact of Recurrent Clostridioides difficile Infection in the USA:
-    A Systematic Literature Review and Cost Synthesis'
-  author: Kelly R. Reveles, Min Yang, Viviana García-Horton, Marie Louise Edwards,
-    Amy X. Guo, Thomas P. Lodise, Markian R. Bochan, Glenn Tillotson, Erik R. Dubberke
-  journal: Advances in Therapy
-  year: 2023
-  date: '2023-05-21'
-  doi: 10.1007/s12325-023-02498-x
-  pdf: https://link.springer.com/content/pdf/10.1007/s12325-023-02498-x.pdf
-  oa_url: https://link.springer.com/content/pdf/10.1007/s12325-023-02498-x.pdf
-  url: https://doi.org/10.1007/s12325-023-02498-x
-  source: openalex
-- title: Comparison of Droperidol and Midazolam Versus Haloperidol and Lorazepam for
-    Acute Agitation Management in the Emergency Department
-  author: Patrick J. Allen, Kendra E. Johanson, Kelly R. Reveles, Luke A. Neff, Ashley
-    E. Lock
-  journal: Annals of Pharmacotherapy
-  year: 2023
-  date: '2023-03-31'
-  doi: 10.1177/10600280231163192
-  pdf: https://journals.sagepub.com/doi/pdf/10.1177/10600280231163192?download=true
-  oa_url: https://journals.sagepub.com/doi/pdf/10.1177/10600280231163192?download=true
-  url: https://doi.org/10.1177/10600280231163192
-  source: openalex
-- title: 'Research and scholarly methods: Audit studies'
-  author: Lindsey J. Loera, Lucas G. Hill, Kirk E. Evoy, Kelly R. Reveles
-  journal: JACCP JOURNAL OF THE AMERICAN COLLEGE OF CLINICAL PHARMACY
-  year: 2023
-  date: '2023-03-31'
-  doi: 10.1002/jac5.1782
-  pdf: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jac5.1782
-  oa_url: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jac5.1782
-  url: https://doi.org/10.1002/jac5.1782
-  source: openalex
-- title: Deep phenotyping towards precision psychiatry of first-episode depression - the
-    Brain Drugs-Depression cohort
-  author: Jensen KHR, Dam VH, Ganz M, Fisher PM, Ip CT, Sankar A, Marstrand-Joergensen
-    MR, Ozenne B, Osler M, Penninx BWJH, Pinborg LH, Frokjaer VG, Knudsen GM, Jørgensen
-    MB
+- title: Deep phenotyping towards precision psychiatry of first-episode depression - the Brain Drugs-Depression cohort
+  author: Jensen KHR, Dam VH, Ganz M, Fisher PM, Ip CT, Sankar A, Marstrand-Joergensen MR, Ozenne B, Osler M, Penninx BWJH, Pinborg LH, Frokjaer VG, Knudsen GM, Jørgensen MB
   journal: BMC Psychiatry
   year: 2023
   date: '2023-03-01'
@@ -629,43 +215,8 @@
   url: https://doi.org/10.1186/s12888-023-04618-x
   pmc: PMC9999625
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC9999625/pdf/
-- title: Risk of Coronavirus Disease 2019–Associated Pulmonary Aspergillosis Based
-    on Corticosteroid Duration in Intensive Care Patients
-  author: Meera D. Shah, Kelly R. Reveles, Rebecca Moote, Elizabeth Hand, Dean L.
-    Kellogg, Rebecca L. Attridge, Diego Jose Maselli, Gloria Gutierrez
-  journal: Open Forum Infectious Diseases
-  year: 2023
-  date: '2023-03-01'
-  doi: 10.1093/ofid/ofad062
-  pdf: https://academic.oup.com/ofid/article-pdf/10/3/ofad062/49410332/ofad062.pdf
-  oa_url: https://academic.oup.com/ofid/article-pdf/10/3/ofad062/49410332/ofad062.pdf
-  url: https://doi.org/10.1093/ofid/ofad062
-  source: openalex
-- title: 'Controversies in the Prevention and Treatment of Clostridioides difficile
-    Infection in Adults: A Narrative Review'
-  author: Taryn B. Bainum, Kelly R. Reveles, Ronald G. Hall, Kelli Cornell, Carlos
-    A. Álvarez
-  journal: Microorganisms
-  year: 2023
-  date: '2023-02-03'
-  doi: 10.3390/microorganisms11020387
-  pdf: https://www.mdpi.com/2076-2607/11/2/387/pdf?version=1675403548
-  oa_url: https://www.mdpi.com/2076-2607/11/2/387/pdf?version=1675403548
-  url: https://doi.org/10.3390/microorganisms11020387
-  source: openalex
-- title: Population based cohort to examine association between geospatial antibiotic
-    factors and urinary tract infection outcomes
-  author: Alexa Nero, Mckayla Weber, Kelly R. Reveles, Joseph J. Carreno
-  journal: American Journal of Infection Control
-  year: 2023
-  date: '2023-01-31'
-  doi: 10.1016/j.ajic.2023.01.011
-  url: https://doi.org/10.1016/j.ajic.2023.01.011
-  source: openalex
-- title: Loss of Adgra3 causes obstructive azoospermia with high penetrance in male
-    mice
-  author: Nybo ML, Kvam JM, Nielsen JE, Frederiksen H, Spiess K, Jensen KHR, Gadgaard
-    S, Walser ALS, Thomsen JS, Cowin P, Juul A, Blomberg Jensen M, Rosenkilde MM
+- title: Loss of Adgra3 causes obstructive azoospermia with high penetrance in male mice
+  author: Nybo ML, Kvam JM, Nielsen JE, Frederiksen H, Spiess K, Jensen KHR, Gadgaard S, Walser ALS, Thomsen JS, Cowin P, Juul A, Blomberg Jensen M, Rosenkilde MM
   journal: The FASEB Journal
   year: 2023
   date: '2023-01-01'
@@ -675,156 +226,8 @@
   pmc: PMC10107928
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC10107928/pdf/
   preclinical: mouse
-- title: National Disparities in Antibiotic Prescribing by Race, Ethnicity, Age Group,
-    and Sex in United States Ambulatory Care Visits, 2009 to 2016
-  author: Eric H. Young, Kelsey A. Strey, Grace C. Lee, Travis J Carlson, Jim M. Koeller,
-    Vidal M Mendoza, Kelly R. Reveles
-  journal: Antibiotics
-  year: 2022
-  date: '2022-12-28'
-  doi: 10.3390/antibiotics12010051
-  pdf: https://www.mdpi.com/2079-6382/12/1/51/pdf?version=1673345938
-  oa_url: https://www.mdpi.com/2079-6382/12/1/51/pdf?version=1673345938
-  url: https://doi.org/10.3390/antibiotics12010051
-  source: openalex
-- title: 'Electronic cigarette or vaping use among adolescents in the United States:
-    A call for research and legislative action'
-  author: Bretton A. Gilmore, Kelly R. Reveles, Christopher Raymond Frei
-  journal: Frontiers in Public Health
-  year: 2022
-  date: '2022-12-01'
-  doi: 10.3389/fpubh.2022.1088032
-  pdf: https://www.frontiersin.org/articles/10.3389/fpubh.2022.1088032/pdf
-  oa_url: https://www.frontiersin.org/articles/10.3389/fpubh.2022.1088032/pdf
-  url: https://doi.org/10.3389/fpubh.2022.1088032
-  source: openalex
-- title: '2045. IVAC Plus in the Time of COVID-19: An Imperfect Metric?'
-  author: Camille Spears, Delvina Ford, Jose Martinez, Kelly R. Reveles, Erica Beck,
-    Lauren N Garza, Ann Hoffmann, Serene Hoskins, José Cadena
-  journal: Open Forum Infectious Diseases
-  year: 2022
-  date: '2022-12-01'
-  doi: 10.1093/ofid/ofac492.1667
-  oa_url: https://doi.org/10.1093/ofid/ofac492.1667
-  url: https://doi.org/10.1093/ofid/ofac492.1667
-  source: openalex
-- title: '911. Impact of Intensified Clindamycin Stewardship Initiatives in Three
-    Phases: A Quasi-Experimental Study'
-  author: Kelly C. Gamble, Dusten T T Rose, Kristin E. Mondy, Rama V. Thyagarajan,
-    Theresa Jaso, Leslie Coats, Kelly R. Reveles
-  journal: Open Forum Infectious Diseases
-  year: 2022
-  date: '2022-12-01'
-  doi: 10.1093/ofid/ofac492.756
-  oa_url: https://doi.org/10.1093/ofid/ofac492.756
-  url: https://doi.org/10.1093/ofid/ofac492.756
-  source: openalex
-- title: 2014. Central Line - Associated Bloodstream Infections and Their Increase
-    With the COVID-19 Pandemic at Veterans Affairs in San Antonio, Texas
-  author: Divya Chandramohan, Delvina Ford, Erica Beck, Lauren N Garza, Kelly R. Reveles,
-    José Cadena
-  journal: Open Forum Infectious Diseases
-  year: 2022
-  date: '2022-12-01'
-  doi: 10.1093/ofid/ofac492.1638
-  pdf: https://academic.oup.com/ofid/article-pdf/9/Supplement_2/ofac492.1638/47896751/ofac492.1638.pdf
-  oa_url: https://academic.oup.com/ofid/article-pdf/9/Supplement_2/ofac492.1638/47896751/ofac492.1638.pdf
-  url: https://doi.org/10.1093/ofid/ofac492.1638
-  source: openalex
-- title: 264. COVID-19 Associated Pulmonary Aspergillosis in Intensive Care Patients
-    Based on Duration of Corticosteroid Administration
-  author: Meera D Shah, Gloria Gutierrez, Rebecca Moote, Kelly R. Reveles, Elizabeth
-    Hand
-  journal: Open Forum Infectious Diseases
-  year: 2022
-  date: '2022-12-01'
-  doi: 10.1093/ofid/ofac492.342
-  oa_url: https://doi.org/10.1093/ofid/ofac492.342
-  url: https://doi.org/10.1093/ofid/ofac492.342
-  source: openalex
-- title: 'The Risk and Clinical Implications of Antibiotic-Associated Acute Kidney
-    Injury: A Review of the Clinical Data for Agents with Signals from the Food and
-    Drug Administration’s Adverse Event Reporting System (FAERS) Database'
-  author: Kalin M. Clifford, Ashley R. Selby, Kelly R. Reveles, Chengwen Teng, Ronald
-    G. Hall, Jamie L. McCarrell, Carlos A. Álvarez
-  journal: Antibiotics
-  year: 2022
-  date: '2022-10-06'
-  doi: 10.3390/antibiotics11101367
-  pdf: https://www.mdpi.com/2079-6382/11/10/1367/pdf?version=1666769018
-  oa_url: https://www.mdpi.com/2079-6382/11/10/1367/pdf?version=1666769018
-  url: https://doi.org/10.3390/antibiotics11101367
-  source: openalex
-- title: Clostridioides difficile Infection Treatment and Outcome Disparities in a
-    National Sample of United States Hospitals
-  author: Eric H. Young, Kelsey A. Strey, Grace C. Lee, Travis J Carlson, Jim M. Koeller,
-    Kelly R. Reveles
-  journal: Antibiotics
-  year: 2022
-  date: '2022-09-06'
-  doi: 10.3390/antibiotics11091203
-  pdf: https://www.mdpi.com/2079-6382/11/9/1203/pdf?version=1662463443
-  oa_url: https://www.mdpi.com/2079-6382/11/9/1203/pdf?version=1662463443
-  url: https://doi.org/10.3390/antibiotics11091203
-  source: openalex
-- title: Effectiveness and Safety of High-Dose Thromboprophylaxis in Morbidly Obese
-    Major Trauma Patients
-  author: Emily Deremiah, Crystal Franco-Martinez, Conrado D. Gamboa, Kelly Sponhaltz,
-    Lindsey Rippee, Kelly R. Reveles, Dana Foster
-  journal: Hospital Pharmacy
-  year: 2022
-  date: '2022-09-01'
-  doi: 10.1177/00185787221111740
-  oa_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9837326/
-  url: https://doi.org/10.1177/00185787221111740
-  source: openalex
-- title: A Comparison of Outcomes With and Without Infectious Diseases Consultation
-    for Enterococcal Bacteraemia in a Multicenter Healthcare System
-  author: Emily A. Shephard, Kristin E. Mondy, Kelly R. Reveles, Theresa Jaso, Dusten
-    T T Rose
-  journal: International Journal of Antimicrobial Agents
-  year: 2022
-  date: '2022-08-28'
-  doi: 10.1016/j.ijantimicag.2022.106665
-  url: https://doi.org/10.1016/j.ijantimicag.2022.106665
-  source: openalex
-- title: Prevalence and Health Outcomes ofClostridioides difficileInfection During
-    the Coronavirus Disease 2019 Pandemic in a National Sample of United States Hospital
-    Systems
-  author: Kelly R. Reveles, Alexa Frei, Kelsey A. Strey, Eric H. Young
-  journal: Open Forum Infectious Diseases
-  year: 2022
-  date: '2022-08-25'
-  doi: 10.1093/ofid/ofac441
-  oa_url: https://doi.org/10.1093/ofid/ofac441
-  url: https://doi.org/10.1093/ofid/ofac441
-  source: openalex
-- title: 'Naloxone accessibility without an outside prescription from U.S. community
-    pharmacies: A systematic review'
-  author: Rachael K. Lai, Kelsie Ellis Friedson, Kelly R. Reveles, Kajal Bhakta, Gillian
-    Gonzales, Lucas G. Hill, Kirk E. Evoy
-  journal: Journal of the American Pharmacists Association
-  year: 2022
-  date: '2022-07-31'
-  doi: 10.1016/j.japh.2022.07.008
-  url: https://doi.org/10.1016/j.japh.2022.07.008
-  source: openalex
-- title: EE6 Contemporary Total Cost of Care Among Medicare Patients with Primary
-    and Recurrent Clostridioides Difficile Infection
-  author: A. Amin, Amy X. Guo, Christie L. Teigland, Iman Mohammadi, J Schablik, Kelly
-    R. Reveles
-  journal: Value in Health
-  year: 2022
-  date: '2022-06-25'
-  doi: 10.1016/j.jval.2022.04.258
-  pdf: http://www.valueinhealthjournal.com/article/S1098301522004594/pdf
-  oa_url: http://www.valueinhealthjournal.com/article/S1098301522004594/pdf
-  url: https://doi.org/10.1016/j.jval.2022.04.258
-  source: openalex
-- title: Effects of an Oral Contraceptive on Dynamic Brain States and Network Modularity
-    in a Serial Single-Subject Study
-  author: Jensen KHR, McCulloch DE, Olsen AS, Bruzzone SEP, Larsen SV, Fisher PM,
-    Frokjaer VG
+- title: Effects of an Oral Contraceptive on Dynamic Brain States and Network Modularity in a Serial Single-Subject Study
+  author: Jensen KHR, McCulloch DE, Olsen AS, Bruzzone SEP, Larsen SV, Fisher PM, Frokjaer VG
   journal: Frontiers in Neuroscience
   year: 2022
   date: '2022-06-01'
@@ -833,11 +236,8 @@
   url: https://doi.org/10.3389/fnins.2022.855582
   pmc: PMC9237452
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC9237452/pdf/
-- title: GPR183 Is Dispensable for B1 Cell Accumulation and Function, but Affects
-    B2 Cell Abundance, in the Omentum and Peritoneal Cavity
-  author: Barington L, Christensen LVV, Pedersen KK, Niss Arfelt K, Roumain M, Jensen
-    KHR, Kjær VMS, Daugvilaite V, Kearney JF, Christensen JP, Hjortø GM, Muccioli
-    GG, Holst PJ, Rosenkilde MM
+- title: GPR183 Is Dispensable for B1 Cell Accumulation and Function, but Affects B2 Cell Abundance, in the Omentum and Peritoneal Cavity
+  author: Barington L, Christensen LVV, Pedersen KK, Niss Arfelt K, Roumain M, Jensen KHR, Kjær VMS, Daugvilaite V, Kearney JF, Christensen JP, Hjortø GM, Muccioli GG, Holst PJ, Rosenkilde MM
   journal: Cells
   year: 2022
   date: '2022-01-01'
@@ -847,8 +247,7 @@
   pmc: PMC8834096
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC8834096/pdf/
   preclinical: mouse
-- title: Distinct roles for dopamine clearance mechanisms in regulating behavioral
-    flexibility
+- title: Distinct roles for dopamine clearance mechanisms in regulating behavioral flexibility
   author: Korn C, Akam T, Jensen KHR, Vagnoni C, Huber A, Tunbridge EM, Walton ME
   journal: Molecular Psychiatry
   year: 2021
@@ -859,8 +258,7 @@
   pmc: PMC8872990
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC8872990/pdf/
   preclinical: mouse
-- title: Etomidate enabled electroconvulsive therapy without suppressing adrenocortical
-    function in a case with difficulties in inducing seizures by conventional methods
+- title: Etomidate enabled electroconvulsive therapy without suppressing adrenocortical function in a case with difficulties in inducing seizures by conventional methods
   author: Jensen KHR, Sørensen MK, Knorr U, Jørgensen MB, Jørgensen A
   journal: Psychiatry and Clinical Neurosciences
   year: 2020
@@ -869,8 +267,7 @@
   doi: 10.1111/pcn.13139
   url: https://doi.org/10.1111/pcn.13139
   pdf: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/pcn.13139
-- title: Cochlear implant should not be absolute contraindication for electroconvulsive
-    therapy and transcranial magnetic stimulation
+- title: Cochlear implant should not be absolute contraindication for electroconvulsive therapy and transcranial magnetic stimulation
   author: Reveles Jensen KH, Navntoft CA, Sindahl CH, Cayé-Thomasen P, Jørgensen MB
   journal: Brain Stimulation
   year: 2020
@@ -890,8 +287,7 @@
   pmc: PMC7214744
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC7214744/pdf/
   preclinical: mouse tissue explants
-- title: Shocking colours - ECT temporarily improves colour perception in a colour-blind
-    patient
+- title: Shocking colours - ECT temporarily improves colour perception in a colour-blind patient
   author: Reveles Jensen KH, Pedersen ST, Vinther Hansen M, Jørgensen MB
   journal: Brain Stimulation
   year: 2020
@@ -901,8 +297,7 @@
   url: https://doi.org/10.1016/j.brs.2020.04.018
   pdf: http://www.brainstimjrnl.com/article/S1935861X20300978/pdf
 - title: Arrestin-independent constitutive endocytosis of GPR125/ADGRA3
-  author: Spiess K, Bagger SO, Torz LJ, Jensen KHR, Walser AL, Kvam JM, Møgelmose
-    AK, Daugvilaite V, Junnila RK, Hjortø GM, Rosenkilde MM
+  author: Spiess K, Bagger SO, Torz LJ, Jensen KHR, Walser AL, Kvam JM, Møgelmose AK, Daugvilaite V, Junnila RK, Hjortø GM, Rosenkilde MM
   journal: Annals of the New York Academy of Sciences
   year: 2019
   date: '2019-10-01'
@@ -912,8 +307,7 @@
   pmc: PMC6899654
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC6899654/pdf/
   preclinical: cell culture
-- title: Præmenstruel dysfori overses ofte [Premenstrual dysphoric disorder is often
-    overlooked]
+- title: Præmenstruel dysfori overses ofte [Premenstrual dysphoric disorder is often overlooked]
   author: Reveles Jensen KH, Sinclair K
   journal: Ugeskrift for Læger
   year: 2018
@@ -941,8 +335,7 @@
   pmc: PMC5011694
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC5011694/pdf/
   preclinical: mouse and rat
-- title: Premotor spinal network with balanced excitation and inhibition during motor
-    patterns has high resilience to structural division
+- title: Premotor spinal network with balanced excitation and inhibition during motor patterns has high resilience to structural division
   author: Petersen PC, Vestergaard M, Jensen KH, Berg RW
   journal: The Journal of Neuroscience
   year: 2014
@@ -953,8 +346,7 @@
   pmc: PMC6608521
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC6608521/pdf/
   preclinical: turtle
-- title: Spontaneous cluster activity in the inferior olivary nucleus in brainstem
-    slices from postnatal mice
+- title: Spontaneous cluster activity in the inferior olivary nucleus in brainstem slices from postnatal mice
   author: Rekling JC, Jensen KH, Jahnsen H
   journal: The Journal of Physiology
   year: 2012
@@ -965,8 +357,7 @@
   pmc: PMC3413494
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC3413494/pdf/
   preclinical: mouse brainstem slices
-- title: Development of a no-wash assay for mitochondrial membrane potential using
-    the styryl dye DASPEI
+- title: Development of a no-wash assay for mitochondrial membrane potential using the styryl dye DASPEI
   author: Jensen KH, Rekling JC
   journal: Journal of Biomolecular Screening
   year: 2010
@@ -976,4 +367,3 @@
   url: https://doi.org/10.1177/1087057110376834
   preclinical: rat
   oa_url: https://doi.org/10.1177/1087057110376834
-
