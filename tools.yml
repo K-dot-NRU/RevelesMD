@@ -1,6 +1,6 @@
 # Clinical tools shown on the "Clinical tools" page. Add new ones at the top or bottom.
 # Fields: title, kind, language, description, download (file in the tools/ folder),
-# download_label, links (list of label + url), permission, cite.
+# download_label, downloads (list of label + file, for several files), links (list of label + url), permission, cite.
 - title: Daily Record of Severity of Problems (DRSP), Danish version
   kind: Symptom diary
   language: Danish
@@ -31,11 +31,18 @@
     negative attitudes toward antidepressants, help-seeking from medical professionals,
     preference for psychotherapy and experienced stigma. Developed and validated in patients
     with first-episode depression in the BrainDrugs-Depression cohort.
+  downloads:
+    - label: Danish form and scoring key (PDF)
+      file: tools/ATDT-SF_DK.pdf
+    - label: English form and scoring key (PDF)
+      file: tools/ATDT-SF_EN.pdf
   links:
-    - label: Validation paper with the items (Journal of Affective Disorders, 2025)
+    - label: Validation paper (Journal of Affective Disorders, 2025)
       url: https://doi.org/10.1016/j.jad.2025.120233
   permission: >-
-    The Danish translation of the original ATDT is given in the supplementary material of the paper.
+    Each PDF has the 13 statements on page one and the scoring key for the four scales on page two.
+    The Danish wording comes from the forward and backward translation of the original 27-item ATDT
+    described in the paper.
   cite: >-
     Jensen KHR, et al. Treatment preferences and self-stigma in depression: Development and
     validation of the brief ATDT-SF. J Affect Disord. 2025.
