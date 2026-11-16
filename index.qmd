@@ -37,7 +37,7 @@ Much of this work builds on the BrainDrugs-Depression cohort of patients with fi
 
 ```{=html}
 <div class="cards">
-<a href="publications.html"><strong>Publications</strong><span>Peer-reviewed papers, kept in step with Google Scholar</span></a>
+<a href="publications.html"><strong>Publications</strong><span>Peer-reviewed papers with PDFs, updated automatically</span></a>
 <a href="cv.html"><strong>CV</strong><span>Education, positions, grants and talks</span></a>
 <a href="media.html"><strong>Media</strong><span>New papers, interviews and podcasts</span></a>
 <a href="teaching.html"><strong>Teaching and supervision</strong><span>University of Copenhagen, students and how I supervise</span></a>

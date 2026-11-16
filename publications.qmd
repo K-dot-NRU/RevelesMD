@@ -10,7 +10,7 @@ listing:
   page-size: 200
 ---
 
-Publications, newest first. The list is refreshed automatically from my [Google Scholar profile](https://scholar.google.dk/citations?user=iDfs_P4AAAAJ&hl=en); see also [ORCID](https://orcid.org/0000-0001-8880-4879). Coloured icons link to the data, code or preregistration where a public link exists.
+Publications, newest first. The list is updated automatically; see also my [Google Scholar profile](https://scholar.google.dk/citations?user=iDfs_P4AAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0001-8880-4879). Coloured icons link to the data, code or preregistration where a public link exists.
 
 ```{=html}
 <ul class="legend" aria-label="Key to icons">

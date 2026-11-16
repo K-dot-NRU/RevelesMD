@@ -149,6 +149,7 @@ found  <- get_json(str_c(
 pmids     <- unlist(found$esearchresult$idlist) %||% character()
 known     <- map_chr(pubs, \(p) as.character(p$pmid %||% ""))
 new_pmids <- setdiff(pmids, known)
+message("PubMed lists ", length(pmids), " paper(s); ", length(new_pmids), " not yet on the site.")
 
 if (length(new_pmids) > 0) {
   summaries <- get_json(str_c(
