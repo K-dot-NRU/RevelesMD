@@ -5,6 +5,9 @@ project:
     - "*.qmd"
     - "posts/**/*.qmd"
     - "!posts/_template/"
+  resources:
+    - "tools/*.pdf"
+    - "pdfs/*.pdf"
 
 website:
   title: "Kristian Reveles Jensen"
@@ -20,6 +23,8 @@ website:
         href: media.qmd
       - text: Teaching and supervision
         href: teaching.qmd
+      - text: Clinical tools
+        href: tools.qmd
       - text: Blog
         href: blog.qmd
   page-footer:

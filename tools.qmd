@@ -1,0 +1,19 @@
+---
+title: "Clinical tools"
+listing:
+  id: tools
+  contents: tools.yml
+  template: _ejs/tools.ejs
+  sort: "order"
+---
+
+Questionnaires and rating forms that I have translated, developed or published norms for. Each entry says whether the form can be downloaded here or where to obtain it.
+
+These tools are intended for clinicians and researchers. A score or a completed chart supports a clinical assessment and does not replace one.
+
+::: {#tools}
+:::
+
+## Using or adapting a tool
+
+If you would like to use one of these in a study, need another format, or have found an error in a translation, please get in touch through my [NRU profile](https://nru.dk/index.php/about-us/staff-list/95-postdocs/288-kristian-reveles-jensen).

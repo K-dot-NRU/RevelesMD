@@ -1,0 +1,56 @@
+# Clinical tools shown on the "Clinical tools" page. Add new ones at the top or bottom.
+# Fields: title, kind, language, description, download (file in the tools/ folder),
+# download_label, links (list of label + url), permission, cite.
+- title: Daily Record of Severity of Problems (DRSP), Danish version
+  kind: Symptom diary
+  language: Danish
+  order: 1
+  description: >-
+    Daglig registrering af sværhed af problemer. A one-page monthly chart for daily rating of
+    premenstrual symptoms and their impact on work, activities and relationships, each scored
+    from 1 (not at all) to 6 (extreme). Prospective ratings over at least two full cycles are
+    used when assessing premenstrual dysphoric disorder.
+  download: tools/DRSP_DK.pdf
+  download_label: Download the Danish DRSP (PDF)
+  links:
+    - label: Article in Ugeskrift for Læger (2018)
+      url: https://ugeskriftet.dk/videnskab/praemenstruel-dysfori-overses-ofte
+  permission: >-
+    Translated by K. H. Reveles Jensen and made available for use in Denmark with permission
+    from Jean Endicott. It may be printed and used in Denmark.
+  cite: >-
+    Endicott J, Nee J, Harrison W. Daily Record of Severity of Problems (DRSP): reliability and
+    validity. Arch Womens Ment Health. 2006. Danish version: Jensen KHR, Sinclair K.
+    Præmenstruel dysfori overses ofte. Ugeskr Læger. 2018.
+- title: Attitudes Towards Depression and its Treatment, short form (ATDT-SF)
+  kind: Questionnaire
+  language: Danish and English
+  order: 2
+  description: >-
+    A 13-item self-report questionnaire on attitudes to depression and its treatment, covering
+    negative attitudes toward antidepressants, help-seeking from medical professionals,
+    preference for psychotherapy and experienced stigma. Developed and validated in patients
+    with first-episode depression in the BrainDrugs-Depression cohort.
+  links:
+    - label: Validation paper with the items (Journal of Affective Disorders, 2025)
+      url: https://doi.org/10.1016/j.jad.2025.120233
+  permission: >-
+    The Danish translation of the original ATDT is given in the supplementary material of the paper.
+  cite: >-
+    Jensen KHR, et al. Treatment preferences and self-stigma in depression: Development and
+    validation of the brief ATDT-SF. J Affect Disord. 2025.
+- title: Danish norms for the BSI-53, BSI-18 and SCL-10
+  kind: Reference norms
+  language: Danish
+  order: 3
+  description: >-
+    Gender-stratified national norms for interpreting scores on the Brief Symptom Inventory
+    and related symptom checklists in Danish adults.
+  links:
+    - label: Norms paper (Nordic Journal of Psychiatry, 2025)
+      url: https://doi.org/10.1080/08039488.2024.2435515
+  permission: >-
+    The questionnaires themselves are licensed and must be obtained from their publisher.
+  cite: >-
+    Jensen KHR. Gender-stratified national mental health norms of BSI-53, BSI-18, SCL-10 and
+    related scales for Denmark. Nord J Psychiatry. 2025.

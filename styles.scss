@@ -86,3 +86,12 @@ a.badge-icon:hover { color: #fff; filter: brightness(1.15); }
 .legend { display: flex; flex-wrap: wrap; gap: 0.4rem 1.3rem; font-size: 0.93rem; color: $muted; margin: 0.8rem 0 0.4rem; padding: 0; list-style: none; }
 .legend li { display: inline-flex; align-items: center; gap: 0.4rem; }
 .legend .badge-icon { width: 1.4rem; height: 1.4rem; font-size: 0.78rem; }
+
+/* Clinical tools */
+.tool { border: 1px solid $rule; border-radius: 6px; background: #fff; padding: 1.2rem 1.3rem 0.9rem; margin-top: 1.1rem; }
+.tool h3 { margin: 0.1rem 0 0.5rem; font-size: 1.3rem; }
+.tool-kind { text-transform: uppercase; letter-spacing: 0.1em; font-size: 0.76rem; font-weight: 600; color: $accent; margin: 0; }
+.tool-actions { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.tool-actions .btn-primary { background: $accent; border-color: $accent; }
+.tool-note { font-size: 0.92rem; color: $muted; margin-bottom: 0.45rem; }
+.tool-note strong { color: $ink; font-weight: 600; }

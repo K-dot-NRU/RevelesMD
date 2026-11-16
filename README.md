@@ -11,6 +11,7 @@ Written in Markdown, built with [Quarto](https://quarto.org) and published with 
 | CV | `cv.qmd` |
 | Media: press and podcasts | `media.yml` (the "New papers" block is automatic) |
 | Teaching and supervision | `teaching.qmd` |
+| Clinical tools | `tools.yml`; put downloadable files in `tools/` |
 | Blog posts and book reviews | one folder per post in `posts/`; copy `posts/_template` |
 | Colours and fonts | `styles.scss` |
 | Menu, footer links | `_quarto.yml` |

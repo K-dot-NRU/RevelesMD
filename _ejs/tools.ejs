@@ -1,0 +1,17 @@
+```{=html}
+<div class="tool-list">
+<% for (const item of items) { %>
+  <article class="tool">
+    <p class="tool-kind"><%- item.kind %><% if (item.language) { %> · <%- item.language %><% } %></p>
+    <h3><%- item.title %></h3>
+    <p><%- item.description %></p>
+    <p class="tool-actions">
+      <% if (item.download) { %><a class="btn btn-primary btn-sm" href="<%- item.download %>" download><i class="bi bi-download" aria-hidden="true"></i> <%- item.download_label || "Download" %></a><% } %>
+      <% for (const l of (item.links || [])) { %><a class="btn btn-outline-secondary btn-sm" href="<%- l.url %>"><i class="bi bi-box-arrow-up-right" aria-hidden="true"></i> <%- l.label %></a><% } %>
+    </p>
+    <% if (item.permission) { %><p class="tool-note"><strong>Use and permission.</strong> <%- item.permission %></p><% } %>
+    <% if (item.cite) { %><p class="tool-note"><strong>Please cite.</strong> <%- item.cite %></p><% } %>
+  </article>
+<% } %>
+</div>
+```

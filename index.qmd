@@ -39,8 +39,9 @@ Much of this work builds on the BrainDrugs-Depression cohort of patients with fi
 <div class="cards">
 <a href="publications.html"><strong>Publications</strong><span>Peer-reviewed papers with PDFs, updated automatically</span></a>
 <a href="cv.html"><strong>CV</strong><span>Education, positions, grants and talks</span></a>
-<a href="media.html"><strong>Media</strong><span>New papers, interviews and podcasts</span></a>
+<a href="media.html"><strong>Media</strong><span>New papers, media coverage and enquiries</span></a>
 <a href="teaching.html"><strong>Teaching and supervision</strong><span>University of Copenhagen, students and how I supervise</span></a>
+<a href="tools.html"><strong>Clinical tools</strong><span>Questionnaires and rating forms in Danish, to download or obtain</span></a>
 <a href="blog.html"><strong>Blog</strong><span>Notes, essays and book reviews</span></a>
 </div>
 ```
