@@ -1,0 +1,36 @@
+<%
+function authors(a) {
+  if (!a) return "";
+  let list = String(a).split(/,\s*/);
+  const isMe = (n) => /^(Reveles Jensen KH|Jensen KHR|Jensen KH|Jensen KR|KHR Jensen|KH Jensen|KR Jensen|KHR Reveles Jensen|KH Reveles Jensen|K Reveles Jensen|Kristian (H\. ?|Høj )?Reveles Jensen)\b/i.test(n.trim());
+  if (list.length > 10) {
+    const me = list.findIndex(isMe);
+    const head = list.slice(0, 3), tail = list.slice(-1);
+    const mid = (me > 2 && me < list.length - 1) ? ["…", list[me], "…"] : ["…"];
+    list = head.concat(mid, tail);
+  }
+  return list.map((n) => isMe(n) ? "<b>" + n + "</b>" : n).join(", ");
+}
+function isUrl(x) { return typeof x === "string" && /^(https?:\/\/|pdfs\/)/.test(x); }
+function badge(cls, icon, label, value) {
+  const inner = icon + '<span class="visually-hidden">' + label + '</span>';
+  return isUrl(value)
+    ? '<a class="badge-icon ' + cls + '" href="' + value + '" title="' + label + '">' + inner + '</a>'
+    : '<span class="badge-icon ' + cls + '" title="' + label + '">' + inner + '</span>';
+}
+const mouse = '<svg viewBox="0 0 24 24" width="1.45em" height="1.45em" aria-hidden="true"><ellipse cx="11" cy="15" rx="7.5" ry="4.6" fill="currentColor"/><circle cx="17.2" cy="12.4" r="3.4" fill="currentColor"/><circle cx="15.6" cy="8.6" r="2.3" fill="currentColor"/><path d="M19.800 12.200l3 1.600-2.700 1.100z" fill="currentColor"/><path d="M3.800 16.500C1.500 17.500 1 19.500 2.200 21" fill="none" stroke="currentColor" stroke-width="1.400" stroke-linecap="round"/></svg>';
+%>
+```{=html}
+<ul class="entry-list list">
+<% for (const item of items) { if (item.hide === true) continue; %>
+  <li <%= metadataAttrs(item) %>>
+    <span class="when"><%- item.year %></span>
+    <div>
+      <span class="listing-title"><a href="<%- item.url %>"><%- item.title %></a></span>
+      <span class="listing-author"><%= authors(item.author) %></span>
+      <span class="meta"><em class="listing-journal"><%- item.journal %></em><% if (item.doi) { %><span class="sep">|</span><a href="https://doi.org/<%- item.doi %>">DOI</a><% } %><% if (item.pmid) { %><span class="sep">|</span><a href="https://pubmed.ncbi.nlm.nih.gov/<%- item.pmid %>/">PubMed</a><% } %><% if (item.pdf) { %><span class="sep">|</span><a class="pdf-link" href="<%- item.pdf %>"><i class="bi bi-file-earmark-pdf" aria-hidden="true"></i> PDF</a><% } else if (item.oa_url) { %><span class="sep">|</span><a href="<%- item.oa_url %>"><i class="bi bi-unlock" aria-hidden="true"></i> Open access</a><% } %><% if (item.citations) { %><span class="sep">|</span><span class="muted">Cited by <%- item.citations %></span><% } %><% if (item.open_data || item.open_code || item.preregistration || item.preclinical) { %><span class="badges"><% if (item.open_data) { %><%= badge("b-data", '<i class="bi bi-database" aria-hidden="true"></i>', "Open data", item.open_data) %><% } %><% if (item.open_code) { %><%= badge("b-code", '<i class="bi bi-code-slash" aria-hidden="true"></i>', "Open code", item.open_code) %><% } %><% if (item.preregistration) { %><%= badge("b-prereg", '<i class="bi bi-clipboard-check" aria-hidden="true"></i>', "Preregistered", item.preregistration) %><% } %><% if (item.preclinical) { %><%= badge("b-preclin", mouse, "Preclinical" + (typeof item.preclinical === "string" ? ": " + item.preclinical : ""), null) %><% } %></span><% } %></span>
+    </div>
+  </li>
+<% } %>
+</ul>
+```

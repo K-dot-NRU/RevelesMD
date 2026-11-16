@@ -1,0 +1,56 @@
+---
+title: "Teaching and supervision"
+---
+
+## University of Copenhagen
+
+Since 2018 I have been a part-time lecturer (ekstern lektor) at the Department of Biomedicine, Faculty of Health and Medical Sciences, University of Copenhagen. The affiliation is not time limited and carries primary supervisory responsibility for bachelor's and master's students. I have also been assessed at lecturer level for co-supervision of PhD students.
+
+My research is carried out at the Neurobiology Research Unit, Rigshospitalet, and Psykiatrisk Center København, so students who work with me are usually based there while enrolled at the university.
+
+## Teaching
+
+- **Human neuroanatomy, neurophysiology and neuropathology for non-clinicians** (since 2018). I lecture and examine on two courses, with about 13 hours of lectures and 12 hours of case-based group work each year, in addition to marking the written exams.
+- **Neuroanatomy for second-year medical students** (2014 to 2015). Group teaching and tutorials.
+
+I have completed the university's Introduction to University Pedagogy.
+
+## Students
+
+I have been primary supervisor for 14 master's students in medicine and 8 bachelor's students in medicine or in medicine and technology (a joint programme of DTU and the University of Copenhagen). I currently supervise three master's and three bachelor's students, and I am primary co-supervisor for one PhD student.
+
+Many students have carried out a funded research year, supported by scholarships from DPS-Lundbeck, Rigshospitalet and other foundations, and several have published their project as first author. Their papers appear on the [publications page](publications.qmd).
+
+<!-- Optional: list students by name once they have agreed to it, for example
+### Current
+- Name, degree, project title
+### Past
+- Name, degree, year, project title, where they are now
+-->
+
+## How I teach and supervise
+
+<!-- DRAFT: this section and the next were drafted from the CV and should be revised in your own words before publishing. -->
+
+In teaching I try to connect structure to function and function to the patient. Neuroanatomy is easier to remember when each structure comes with a clinical picture, so I teach with cases and expect students to reason aloud rather than recite.
+
+In supervision my aim is that a student leaves with a finished piece of work that is their own. In practice this means:
+
+- **A defined question from the start.** Projects are scoped to fit the time available and are usually built on data that already exist or are being collected in our cohorts, so that the student can spend their time on thinking and analysis.
+- **Regular, short meetings.** I prefer weekly contact and quick feedback on drafts to long gaps followed by large revisions.
+- **Learning the whole process.** Students take part in the study itself where possible, meet participants, and learn data handling, statistics in R, preregistration and scientific writing.
+- **Authorship that reflects the work.** A student who carries a project through writes it up as first author, and I help them get it submitted.
+- **Honest results.** A well-conducted null finding is a good outcome and is reported as such.
+
+## What I expect from prospective students
+
+I am happy to hear from medical, engineering and neuroscience students who are interested in a bachelor's project, a master's thesis or a research year. It helps if you:
+
+- are curious about psychiatry and the brain, and willing to read around your topic
+- can commit protected time, ideally a full research year for larger projects
+- are prepared to learn basic programming and statistics; prior experience is welcome but not required
+- work carefully with patient data and follow the rules that protect participants
+- say so early when something is unclear or behind schedule
+- intend to finish, which for most projects means a submitted manuscript
+
+When you write, please include a short description of your background, when you could start and for how long, and which of the research themes on the [front page](index.qmd) interest you. For research years we normally apply for a scholarship together, so it is best to get in touch at least six months ahead.

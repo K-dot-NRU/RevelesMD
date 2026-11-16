@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "posts/**/*.qmd"
+    - "!posts/_template/"
+
+website:
+  title: "Kristian Reveles Jensen"
+  description: "Physician and researcher in psychiatry and neuroimaging, Copenhagen"
+  # site-url: https://YOUR-USERNAME.github.io   # fill in once the repository exists (enables the blog RSS feed)
+  navbar:
+    left:
+      - text: Publications
+        href: publications.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Media
+        href: media.qmd
+      - text: Teaching and supervision
+        href: teaching.qmd
+      - text: Blog
+        href: blog.qmd
+  page-footer:
+    left: "© Kristian H. Reveles Jensen"
+    right:
+      - text: Google Scholar
+        href: https://scholar.google.dk/citations?user=iDfs_P4AAAAJ&hl=en
+      - text: ORCID
+        href: https://orcid.org/0000-0001-8880-4879
+      - text: NRU
+        href: https://nru.dk/index.php/about-us/staff-list/95-postdocs/288-kristian-reveles-jensen
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    lang: en-GB
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">

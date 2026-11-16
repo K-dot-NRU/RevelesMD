@@ -1,0 +1,54 @@
+# One entry per press piece, podcast or broadcast. Add new ones at the top.
+# Fields: title, outlet, year, date (YYYY-MM-DD), kind, language, url (optional).
+- title: Podcast episode on premenstrual dysphoric disorder (PMDD)
+  outlet: Gloria Media House for Københavns Kommune
+  year: 2026
+  date: '2026-01-01'
+  kind: Podcast
+  language: Danish
+- title: Hormonal contraception under scrutiny, but some women report mental health benefits
+  outlet: University Post (Uniavisen), University of Copenhagen
+  year: 2025
+  date: '2025-06-01'
+  kind: Interview
+  language: English
+  url: https://uniavisen.dk/en/hormonal-contraception-under-scrutiny-but-some-women-report-mental-health-benefits/
+- title: PMD er en cyklisk lidelse hos kvinder, som vi mangler viden om herhjemme
+  outlet: Woman
+  year: 2025
+  date: '2025-05-01'
+  kind: Interview
+  language: Danish
+  url: https://woman.dk/sundhed/pmd
+- title: Kristian behandler "dræber-PMS". De her gener går igen hos kvinderne
+  outlet: Femina
+  year: 2023
+  date: '2023-09-01'
+  kind: Interview
+  language: Danish
+  url: https://www.femina.dk/agenda/koen-identitet/kristian-behandler-draeber-pms-de-her-gener-gaar-igen-hos-kvinderne
+- title: Television interviews on PMDD
+  outlet: TV 2 News, the evening news and Go' aften Danmark
+  year: 2023
+  date: '2023-01-01'
+  kind: Television
+  language: Danish
+- title: Kristian er en læge med en mission
+  outlet: PMS, Powerkvinder Med Svingninger
+  year: 2020
+  date: '2020-08-16'
+  kind: Podcast
+  language: Danish
+  url: https://podcasts.apple.com/us/podcast/kristian-er-en-l%C3%A6ge-med-en-mission/id1515139961?i=1000488311246
+- title: Coverage of a case report on electroconvulsive therapy and colour vision in a colour-blind patient
+  outlet: New Scientist
+  year: 2020
+  date: '2020-06-01'
+  kind: News coverage
+  language: English
+- title: Interviews on premenstrual disorders, mood and cognition
+  outlet: DJØF and other outlets
+  year: 2020
+  date: '2020-01-01'
+  kind: Interview
+  language: Danish

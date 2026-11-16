@@ -1,0 +1,356 @@
+# Publication list. Refreshed automatically from Google Scholar (see R/update_publications.R);
+# fields you add or correct by hand are kept.
+#
+# Optional fields per paper:
+#   pdf:             link to a PDF, or a file you have added to the pdfs/ folder, e.g. pdfs/jensen2026.pdf
+#   open_data:       link to openly available data (OSF, OpenNeuro, Zenodo ...)
+#   open_code:       link to analysis code
+#   preregistration: link to the preregistration (AsPredicted, OSF, PROSPERO), or true if there is no public link
+#   preclinical:     short label for animal or in vitro work, e.g. mouse
+#   hide:            true to keep a paper off the site
+- title: Investigating molecular and hemodynamic effects of LSD in the human brain
+  author: McCulloch DE, Larsen K, Johansen A, Reveles Jensen KH, Nykjær CH, Holze F, Falck N, Neufeld V, Steenstrup E, Skov-Andersen P, Spanggård A, Geisler M, Randrup PP, Jensen PS, Shalgunov V, Johansen SS, Nielsen MKK, Andersen TL, Stenbæk DS, Svarer C, Fisher PM, Knudsen GM
+  journal: Nature Neuroscience
+  year: 2026
+  date: '2026-10-01'
+  pmid: '42864445'
+  doi: 10.1038/s41593-026-02462-2
+  url: https://doi.org/10.1038/s41593-026-02462-2
+- title: 'A stable prevalence hides case turnover: reclassifying depression from ICD-10 to ICD-11 in a Danish general-population sample'
+  author: Jensen KHR
+  journal: Journal of Affective Disorders
+  year: 2026
+  date: '2026-09-01'
+  pmid: '42778028'
+  doi: 10.1016/j.jad.2026.122556
+  url: https://doi.org/10.1016/j.jad.2026.122556
+- title: 'Replication of sensory anhedonia as a predictor of escitalopram response: evidence from the NeuroPharm study'
+  author: Andersen MT, Fuglsang-Damgaard A, Frokjaer VG, Jørgensen MB, Jensen KHR
+  journal: Psychological Medicine
+  year: 2026
+  date: '2026-09-01'
+  pmid: '42740405'
+  doi: 10.1017/S0033291726105650
+  url: https://doi.org/10.1017/S0033291726105650
+- title: 'Nature, nurture, and 5-HT4R: Familial predisposition, not parental bonding, is associated with brain 5-HT4R in a sex-specific manner'
+  author: Kjær RT, Jørgensen MB, Jensen KHR
+  journal: Psychiatry and Clinical Neurosciences
+  year: 2026
+  date: '2026-08-01'
+  pmid: '42541429'
+  doi: 10.1111/pcn.70112
+  url: https://doi.org/10.1111/pcn.70112
+  pmc: PMC13732787
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC13732787/pdf/
+- title: 'Pineal Gland Volume, Sleep Quality, and Psychiatric Disorders: A Systematic Review and Meta-Analysis'
+  author: Bolwig S, Jensen KHR
+  journal: Acta Psychiatrica Scandinavica
+  year: 2026
+  date: '2026-04-01'
+  pmid: '41924884'
+  doi: 10.1111/acps.70092
+  url: https://doi.org/10.1111/acps.70092
+  pmc: PMC13242971
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC13242971/pdf/
+  preregistration: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251138624
+- title: 'Prefrontal and hippocampal microstructural gray matter following cognitive training under moderate hypoxia in mood disorders: a randomized controlled trial'
+  author: Jensen KHR, Østergaard IP, Damgaard V, Schandorff JM, Macoveanu J, Pernet C, Julsgart HW, Johansen A, Brendstrup-Brix K, Kessing LV, Jørgensen MB, Ehrenreich H, Knudsen GM, Miskowiak K
+  journal: Frontiers in Neuroscience
+  year: 2026
+  date: '2026-04-01'
+  pmid: '42027683'
+  doi: 10.3389/fnins.2026.1798024
+  url: https://doi.org/10.3389/fnins.2026.1798024
+  pmc: PMC13099808
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC13099808/pdf/
+- title: Genetic, epigenetic, and electrophysiological markers of serotonergic function and SSRI-related nausea
+  author: Andersen MT, Nielsen KG, Bruzzone SEP, Ip CT, Jørgensen MB, Jensen KHR
+  journal: Journal of Affective Disorders
+  year: 2026
+  date: '2026-03-01'
+  pmid: '41881120'
+  doi: 10.1016/j.jad.2026.121673
+  url: https://doi.org/10.1016/j.jad.2026.121673
+- title: Hormonal contraceptives and EEG biomarkers for antidepressant treatment response in women
+  author: Jensen KHR, Juvik AK, Larsen SV, Andersen MT, Frokjaer VG, Jørgensen MB, Ip CT
+  journal: Communications Medicine
+  year: 2026
+  date: '2026-02-01'
+  pmid: '41731091'
+  doi: 10.1038/s43856-026-01438-4
+  url: https://doi.org/10.1038/s43856-026-01438-4
+  pmc: PMC13039146
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC13039146/pdf/
+- title: Brain 5-HT4 receptor, gastrointestinal symptoms, and SSRI-related nausea in depression
+  author: Nielsen KG, Köhler-Forsberg K, Jørgensen MB, Froekjaer VG, Jensen KHR
+  journal: European Neuropsychopharmacology
+  year: 2025
+  date: '2025-12-01'
+  pmid: '41456530'
+  doi: 10.1016/j.euroneuro.2025.112744
+  url: https://doi.org/10.1016/j.euroneuro.2025.112744
+- title: Serotonergic activity estimated by EEG loudness-dependent auditory evoked potentials as a predictor of sexual SSRI side effects
+  author: Ketilsdottir GD, Ip CT, Frokjaer VG, Giraldi A, Jørgensen MB, Reveles Jensen KH
+  journal: Journal of Psychiatric Research
+  year: 2025
+  date: '2025-11-01'
+  pmid: '41218241'
+  doi: 10.1016/j.jpsychires.2025.11.002
+  url: https://doi.org/10.1016/j.jpsychires.2025.11.002
+- title: 'Letter to the editor: Needling critical details in acupuncture for delirium'
+  author: Jensen KHR
+  journal: Journal of Psychiatric Research
+  year: 2025
+  date: '2025-10-01'
+  pmid: '41152057'
+  doi: 10.1016/j.jpsychires.2025.10.036
+  url: https://doi.org/10.1016/j.jpsychires.2025.10.036
+- title: 'Treatment preferences and self-stigma in depression: Development and validation of the brief ATDT-SF'
+  author: Jensen KHR, Sørensen M, Spanggård A, Juvik AK, Olsen S, Dam VH, Jørgensen MB
+  journal: Journal of Affective Disorders
+  year: 2025
+  date: '2025-09-01'
+  pmid: '40925484'
+  doi: 10.1016/j.jad.2025.120233
+  url: https://doi.org/10.1016/j.jad.2025.120233
+- title: Sex hormones and serotonin 4 receptor brain binding in men with and without major depressive disorder
+  author: Aarestrup MR, Reveles Jensen KH, Larsen SV, Ozenne B, Köhler-Forsberg K, Knudsen GM, Jørgensen MB, Frokjaer VG
+  journal: Neuroscience Applied
+  year: 2025
+  date: '2025-02-01'
+  pmid: '40654584'
+  doi: 10.1016/j.nsa.2025.105517
+  url: https://doi.org/10.1016/j.nsa.2025.105517
+  pmc: PMC12244137
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC12244137/pdf/
+- title: Gender-stratified national mental health norms of BSI-53, BSI-18, SCL-10, ADHD-9, and ADHD-6 for Denmark
+  author: Jensen KHR
+  journal: Nordic Journal of Psychiatry
+  year: 2024
+  date: '2024-12-01'
+  pmid: '39731316'
+  doi: 10.1080/08039488.2024.2435515
+  url: https://doi.org/10.1080/08039488.2024.2435515
+- title: Loudness dependent auditory evoked potentials and suicidality in depression - A meta-analysis with replication in unmedicated patients
+  author: Tyron JM, Ip CT, Jørgensen MB, Jensen KHR
+  journal: Journal of Affective Disorders
+  year: 2024
+  date: '2024-11-01'
+  pmid: '39613043'
+  doi: 10.1016/j.jad.2024.11.073
+  url: https://doi.org/10.1016/j.jad.2024.11.073
+  preregistration: true
+- title: Changes in hippocampal volume, 5-HT4 receptor binding, and verbal memory over the course of antidepressant treatment in major depressive disorder
+  author: Jensen KHR, Dam VH, Köhler-Forsberg K, Ozenne B, Stenbæk DS, Ganz M, Fisher PM, Frokjaer VG, Knudsen GM, Jørgensen MB
+  journal: Journal of Psychiatric Research
+  year: 2024
+  date: '2024-11-01'
+  pmid: '39616866'
+  doi: 10.1016/j.jpsychires.2024.11.043
+  url: https://doi.org/10.1016/j.jpsychires.2024.11.043
+- title: High incidence of imperforate vagina in ADGRA3-deficient mice
+  author: Kvam JM, Nybo ML, Torz L, Sustarsic RK, Jensen KHR, Nielsen JE, Frederiksen H, Gadgaard S, Spiess K, Poulsen SS, Thomsen JS, Cowin P, Blomberg Jensen M, Kurita T, Rosenkilde MM
+  journal: BMC Biology
+  year: 2024
+  date: '2024-04-01'
+  pmid: '38589878'
+  doi: 10.1186/s12915-024-01873-6
+  url: https://doi.org/10.1186/s12915-024-01873-6
+  pmc: PMC11003089
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC11003089/pdf/
+  preclinical: mouse
+- title: No association between serotonin 4 receptor brain binding and personality trait Neuroticism - A positron emission tomography study in depressed patients and healthy individuals
+  author: Mikkelsen AT, Reveles Jensen KH, Jørgensen MB, Frokjaer VG, Dam VH
+  journal: Neuroscience Applied
+  year: 2024
+  date: '2024-03-01'
+  pmid: '40656106'
+  doi: 10.1016/j.nsa.2024.104054
+  url: https://doi.org/10.1016/j.nsa.2024.104054
+  pmc: PMC12244141
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC12244141/pdf/
+- title: Psychoneuroendocrine profiles of unmedicated men with major depressive disorder and associations to treatment effects and sexual side-effects
+  author: Jensen KHR, Aarestrup MR, Larsen SV, Köhler-Forsberg K, Knudsen GM, Jørgensen MB, Frokjaer VG
+  journal: Neuroscience Applied
+  year: 2024
+  date: '2024-02-01'
+  pmid: '40656082'
+  doi: 10.1016/j.nsa.2024.104050
+  url: https://doi.org/10.1016/j.nsa.2024.104050
+  pmc: PMC12244185
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC12244185/pdf/
+- title: EEG abnormalities are not associated with poor antidepressant treatment outcome - A NeuroPharm study
+  author: Jensen KHR, Urdanibia-Centelles O, Dam VH, Köhler-Forsberg K, Frokjaer VG, Knudsen GM, Jørgensen MB, Ip CT
+  journal: European Neuropsychopharmacology
+  year: 2023
+  date: '2023-12-01'
+  pmid: '38128462'
+  doi: 10.1016/j.euroneuro.2023.11.004
+  url: https://doi.org/10.1016/j.euroneuro.2023.11.004
+- title: 'The BrainDrugs-epilepsy study: A prospective open-label cohort precision medicine study in epilepsy'
+  author: Marstrand-Joergensen MR, Dam VH, Vinter K, Ip CT, Jensen KR, Jørgensen MB, Hoei-Hansen CE, Ozenne B, Fisher PM, Knudsen GM, Pinborg LH
+  journal: Neuroscience Applied
+  year: 2023
+  date: '2023-09-01'
+  pmid: '40655979'
+  doi: 10.1016/j.nsa.2023.101136
+  url: https://doi.org/10.1016/j.nsa.2023.101136
+  pmc: PMC12244079
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC12244079/pdf/
+- title: Deep phenotyping towards precision psychiatry of first-episode depression - the Brain Drugs-Depression cohort
+  author: Jensen KHR, Dam VH, Ganz M, Fisher PM, Ip CT, Sankar A, Marstrand-Joergensen MR, Ozenne B, Osler M, Penninx BWJH, Pinborg LH, Frokjaer VG, Knudsen GM, Jørgensen MB
+  journal: BMC Psychiatry
+  year: 2023
+  date: '2023-03-01'
+  pmid: '36894940'
+  doi: 10.1186/s12888-023-04618-x
+  url: https://doi.org/10.1186/s12888-023-04618-x
+  pmc: PMC9999625
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC9999625/pdf/
+- title: Loss of Adgra3 causes obstructive azoospermia with high penetrance in male mice
+  author: Nybo ML, Kvam JM, Nielsen JE, Frederiksen H, Spiess K, Jensen KHR, Gadgaard S, Walser ALS, Thomsen JS, Cowin P, Juul A, Blomberg Jensen M, Rosenkilde MM
+  journal: The FASEB Journal
+  year: 2023
+  date: '2023-01-01'
+  pmid: '36688818'
+  doi: 10.1096/fj.202200762RR
+  url: https://doi.org/10.1096/fj.202200762RR
+  pmc: PMC10107928
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC10107928/pdf/
+  preclinical: mouse
+- title: Effects of an Oral Contraceptive on Dynamic Brain States and Network Modularity in a Serial Single-Subject Study
+  author: Jensen KHR, McCulloch DE, Olsen AS, Bruzzone SEP, Larsen SV, Fisher PM, Frokjaer VG
+  journal: Frontiers in Neuroscience
+  year: 2022
+  date: '2022-06-01'
+  pmid: '35774557'
+  doi: 10.3389/fnins.2022.855582
+  url: https://doi.org/10.3389/fnins.2022.855582
+  pmc: PMC9237452
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC9237452/pdf/
+- title: GPR183 Is Dispensable for B1 Cell Accumulation and Function, but Affects B2 Cell Abundance, in the Omentum and Peritoneal Cavity
+  author: Barington L, Christensen LVV, Pedersen KK, Niss Arfelt K, Roumain M, Jensen KHR, Kjær VMS, Daugvilaite V, Kearney JF, Christensen JP, Hjortø GM, Muccioli GG, Holst PJ, Rosenkilde MM
+  journal: Cells
+  year: 2022
+  date: '2022-01-01'
+  pmid: '35159303'
+  doi: 10.3390/cells11030494
+  url: https://doi.org/10.3390/cells11030494
+  pmc: PMC8834096
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC8834096/pdf/
+  preclinical: mouse
+- title: Distinct roles for dopamine clearance mechanisms in regulating behavioral flexibility
+  author: Korn C, Akam T, Jensen KHR, Vagnoni C, Huber A, Tunbridge EM, Walton ME
+  journal: Molecular Psychiatry
+  year: 2021
+  date: '2021-06-01'
+  pmid: '34193974'
+  doi: 10.1038/s41380-021-01194-y
+  url: https://doi.org/10.1038/s41380-021-01194-y
+  pmc: PMC8872990
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC8872990/pdf/
+  preclinical: mouse
+- title: Etomidate enabled electroconvulsive therapy without suppressing adrenocortical function in a case with difficulties in inducing seizures by conventional methods
+  author: Jensen KHR, Sørensen MK, Knorr U, Jørgensen MB, Jørgensen A
+  journal: Psychiatry and Clinical Neurosciences
+  year: 2020
+  date: '2020-09-01'
+  pmid: '32860316'
+  doi: 10.1111/pcn.13139
+  url: https://doi.org/10.1111/pcn.13139
+- title: Cochlear implant should not be absolute contraindication for electroconvulsive therapy and transcranial magnetic stimulation
+  author: Reveles Jensen KH, Navntoft CA, Sindahl CH, Cayé-Thomasen P, Jørgensen MB
+  journal: Brain Stimulation
+  year: 2020
+  date: '2020-08-01'
+  pmid: '32800965'
+  doi: 10.1016/j.brs.2020.08.007
+  url: https://doi.org/10.1016/j.brs.2020.08.007
+- title: Three-Dimensional Explant Platform for Studies on Choroid Plexus Epithelium
+  author: Petersen N, Torz L, Jensen KHR, Hjortø GM, Spiess K, Rosenkilde MM
+  journal: Frontiers in Cellular Neuroscience
+  year: 2020
+  date: '2020-05-01'
+  pmid: '32431599'
+  doi: 10.3389/fncel.2020.00108
+  url: https://doi.org/10.3389/fncel.2020.00108
+  pmc: PMC7214744
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC7214744/pdf/
+  preclinical: mouse tissue explants
+- title: Shocking colours - ECT temporarily improves colour perception in a colour-blind patient
+  author: Reveles Jensen KH, Pedersen ST, Vinther Hansen M, Jørgensen MB
+  journal: Brain Stimulation
+  year: 2020
+  date: '2020-04-01'
+  pmid: '32360390'
+  doi: 10.1016/j.brs.2020.04.018
+  url: https://doi.org/10.1016/j.brs.2020.04.018
+- title: Arrestin-independent constitutive endocytosis of GPR125/ADGRA3
+  author: Spiess K, Bagger SO, Torz LJ, Jensen KHR, Walser AL, Kvam JM, Møgelmose AK, Daugvilaite V, Junnila RK, Hjortø GM, Rosenkilde MM
+  journal: Annals of the New York Academy of Sciences
+  year: 2019
+  date: '2019-10-01'
+  pmid: '31659746'
+  doi: 10.1111/nyas.14263
+  url: https://doi.org/10.1111/nyas.14263
+  pmc: PMC6899654
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC6899654/pdf/
+  preclinical: cell culture
+- title: Præmenstruel dysfori overses ofte [Premenstrual dysphoric disorder is often overlooked]
+  author: Reveles Jensen KH, Sinclair K
+  journal: Ugeskrift for Læger
+  year: 2018
+  date: '2018-01-01'
+  pmid: '30509347'
+  url: https://ugeskriftet.dk/videnskab/praemenstruel-dysfori-overses-ofte
+- title: Advances and perspectives in tissue clearing using CLARITY
+  author: Jensen KHR, Berg RW
+  journal: Journal of Chemical Neuroanatomy
+  year: 2017
+  date: '2017-07-01'
+  pmid: '28728966'
+  doi: 10.1016/j.jchemneu.2017.07.005
+  url: https://doi.org/10.1016/j.jchemneu.2017.07.005
+  preclinical: tissue clearing methods
+- title: CLARITY-compatible lipophilic dyes for electrode marking and neuronal tracing
+  author: Jensen KH, Berg RW
+  journal: Scientific Reports
+  year: 2016
+  date: '2016-09-01'
+  pmid: '27597115'
+  doi: 10.1038/srep32674
+  url: https://doi.org/10.1038/srep32674
+  pmc: PMC5011694
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC5011694/pdf/
+  preclinical: mouse and rat
+- title: Premotor spinal network with balanced excitation and inhibition during motor patterns has high resilience to structural division
+  author: Petersen PC, Vestergaard M, Jensen KH, Berg RW
+  journal: The Journal of Neuroscience
+  year: 2014
+  date: '2014-01-01'
+  pmid: '24553920'
+  doi: 10.1523/JNEUROSCI.3349-13.2014
+  url: https://doi.org/10.1523/JNEUROSCI.3349-13.2014
+  pmc: PMC6608521
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC6608521/pdf/
+  preclinical: turtle
+- title: Spontaneous cluster activity in the inferior olivary nucleus in brainstem slices from postnatal mice
+  author: Rekling JC, Jensen KH, Jahnsen H
+  journal: The Journal of Physiology
+  year: 2012
+  date: '2012-01-01'
+  pmid: '22250213'
+  doi: 10.1113/jphysiol.2011.222570
+  url: https://doi.org/10.1113/jphysiol.2011.222570
+  pmc: PMC3413494
+  pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC3413494/pdf/
+  preclinical: mouse brainstem slices
+- title: Development of a no-wash assay for mitochondrial membrane potential using the styryl dye DASPEI
+  author: Jensen KH, Rekling JC
+  journal: Journal of Biomolecular Screening
+  year: 2010
+  date: '2010-08-01'
+  pmid: '20713988'
+  doi: 10.1177/1087057110376834
+  url: https://doi.org/10.1177/1087057110376834
+  preclinical: rat

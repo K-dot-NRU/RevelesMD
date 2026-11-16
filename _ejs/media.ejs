@@ -1,0 +1,13 @@
+```{=html}
+<ul class="entry-list list">
+<% for (const item of items) { %>
+  <li <%= metadataAttrs(item) %>>
+    <span class="when"><%- item.year %></span>
+    <div>
+      <span class="listing-title"><% if (item.url) { %><a href="<%- item.url %>"><%- item.title %></a><% } else { %><%- item.title %><% } %></span>
+      <span class="meta"><em><%- item.outlet %></em><% if (item.kind) { %><span class="sep">|</span><span class="muted"><%- item.kind %></span><% } %><% if (item.language) { %><span class="sep">|</span><span class="muted"><%- item.language %></span><% } %></span>
+    </div>
+  </li>
+<% } %>
+</ul>
+```

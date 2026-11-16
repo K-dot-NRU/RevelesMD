@@ -1,0 +1,10 @@
+---
+title: "What this page is for"
+description: "A short note on what will appear here."
+date: 2026-11-16
+categories: [Notes]
+---
+
+This is where I will post things that do not fit in a journal article: short notes on new papers, reflections on clinical psychiatry and research, and reviews of books I have found worth reading.
+
+Posts will be occasional rather than regular.

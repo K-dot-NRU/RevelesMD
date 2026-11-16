@@ -1,0 +1,31 @@
+---
+title: "Media"
+listing:
+  - id: recent-papers
+    contents: publications.yml
+    template: _ejs/publications.ejs
+    sort: "date desc"
+    max-items: 6
+  - id: press
+    contents: media.yml
+    template: _ejs/media.ejs
+    sort: "date desc"
+---
+
+## New papers
+
+The most recent papers I have contributed to. The full list is on the [publications page](publications.qmd).
+
+::: {#recent-papers}
+:::
+
+## Press, podcasts and television
+
+Interviews and coverage, mostly on depression in women, the menstrual cycle and premenstrual dysphoric disorder.
+
+::: {#press}
+:::
+
+## Talks for clinicians and the public
+
+I regularly speak at continued education meetings for practising psychiatrists, gynaecologists and midwives. Journalists and organisers are welcome to get in touch through the Neurobiology Research Unit.

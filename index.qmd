@@ -1,0 +1,50 @@
+---
+pagetitle: "Kristian Reveles Jensen"
+---
+
+::: {.hero}
+[MD, PhD]{.kicker}
+
+# Kristian H. Reveles Jensen
+
+[I am a physician training in psychiatry and a postdoctoral researcher at the Neurobiology Research Unit, Rigshospitalet, and Psykiatrisk Center København. I also hold a part-time lectureship at the University of Copenhagen.]{.lead}
+
+<!-- To add a portrait, save it as images/profile.jpg and uncomment the next line.
+![](images/profile.jpg){width=180 fig-alt="Portrait of Kristian Reveles Jensen"}
+-->
+
+<ul class="profile-links">
+<li><a href="https://scholar.google.dk/citations?user=iDfs_P4AAAAJ&hl=en">Google Scholar</a></li>
+<li><a href="https://orcid.org/0000-0001-8880-4879">ORCID</a></li>
+<li><a href="https://nru.dk/index.php/about-us/staff-list/95-postdocs/288-kristian-reveles-jensen">NRU profile</a></li>
+<li><a href="https://forskning.ku.dk/soeg/result/profil/?id=312281">University of Copenhagen profile</a></li>
+</ul>
+:::
+
+## Research
+
+My research centres on precision psychiatry for major depressive disorder. I use multimodal neuroimaging (PET, MRI and fMRI), EEG biomarkers and detailed clinical phenotyping to ask which patients benefit from which antidepressant treatment, and who is likely to experience side effects.
+
+Much of this work builds on the BrainDrugs-Depression cohort of patients with first-episode depression, which I established during my PhD, and on the earlier NeuroPharm studies. Current themes include:
+
+- Neuroimaging and electrophysiological biomarkers of psychopathology and treatment outcome
+- Serotonergic signalling, including brain serotonin 4 receptor binding, in health and depression
+- Sex differences in affective disorders, hormonal contraception and menstrual cycle related mood disorders
+- Effects and side effects of antidepressants, psychedelics and psychotherapy
+- Volumes of small brain structures such as the pineal gland, pituitary and choroid plexus in psychiatric disorders
+
+## On this site
+
+```{=html}
+<div class="cards">
+<a href="publications.html"><strong>Publications</strong><span>Peer-reviewed papers, kept in step with Google Scholar</span></a>
+<a href="cv.html"><strong>CV</strong><span>Education, positions, grants and talks</span></a>
+<a href="media.html"><strong>Media</strong><span>New papers, interviews and podcasts</span></a>
+<a href="teaching.html"><strong>Teaching and supervision</strong><span>University of Copenhagen, students and how I supervise</span></a>
+<a href="blog.html"><strong>Blog</strong><span>Notes, essays and book reviews</span></a>
+</div>
+```
+
+## Contact
+
+Neurobiology Research Unit, Rigshospitalet, Building 8057, Blegdamsvej 9, DK-2100 Copenhagen, Denmark.

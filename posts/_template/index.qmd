@@ -1,0 +1,20 @@
+---
+title: "Book review: Title of the book"
+description: "One sentence that appears in the blog list."
+date: 2026-12-01
+categories: [Book review]
+draft: true
+---
+
+<!--
+How to use this template
+1. Copy the folder posts/_template to a new folder, for example posts/2026-12-book-title
+   (folder names starting with an underscore are not published).
+2. Edit the title, description, date and categories above.
+3. Write the text below in Markdown.
+4. Remove the line "draft: true" when the post is ready, then commit.
+-->
+
+**Author, *Title* (Publisher, year).**
+
+Your text here.

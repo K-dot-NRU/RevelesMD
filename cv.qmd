@@ -1,0 +1,181 @@
+---
+title: "Curriculum vitae"
+---
+
+::: {.cv}
+
+Kristian H. Reveles Jensen, MD, PhD. ORCID [0000-0001-8880-4879](https://orcid.org/0000-0001-8880-4879).
+
+<!-- To offer a PDF, add the file as cv.pdf in the top folder and uncomment the next line.
+[Download as PDF](cv.pdf){.btn .btn-outline-secondary .btn-sm}
+-->
+
+## Education
+
+2025
+: PhD, University of Copenhagen
+
+2017
+: MSc by Research in Psychiatry, University of Oxford
+
+2017
+: MD, University of Copenhagen
+
+2009
+: BSc in Biology and Biotechnology, University of Copenhagen
+
+Shorter programmes
+: Summer School in Affective Disorders, Maastricht University (2019)
+: Semester on the MSc in Biotechnology, University of Copenhagen (2010)
+: Semester in neuroscience, psychology and behaviour, California Institute of Technology (2009)
+: Nano-Biotechnology Summer Programme, University of Tokyo (2009)
+
+## Research and academic positions
+
+2025–
+: Postdoctoral researcher, Neurobiology Research Unit, Rigshospitalet, and Psykiatrisk Center København
+
+2021–2025
+: PhD student, Neurobiology Research Unit, Rigshospitalet
+
+2018–
+: Part-time lecturer (ekstern lektor), Department of Biomedicine, University of Copenhagen
+
+2019–2021
+: Visiting researcher, Departments of Biology, Biomedicine and Neuroscience, University of Copenhagen
+
+2019
+: Visiting researcher, Langone Medical Center, New York University (one month)
+
+2012–2019
+: Research assistant, Department of Neurophysiology and Pharmacology, University of Copenhagen
+
+## Clinical positions
+
+2026
+: Resident in psychiatry, neurology rotation, Rigshospitalet
+
+Since 2020
+: Junior doctor in psychiatry, Queen Ingrid's Hospital, Nuuk, Greenland <small>Several stays of two to six weeks</small>
+
+2020
+: Junior doctor, outpatient clinic for affective disorders, Psykiatrisk Center København
+
+2019–2020
+: First-year residency in psychiatry, Psykiatrisk Center København
+
+2018
+: Junior doctor, neurosurgery, Rigshospitalet
+
+2017–2018
+: Foundation year doctor, internal medicine and psychiatry, Esbjerg
+
+2017
+: Junior doctor, psychiatry, Glostrup
+
+## Clinical courses
+
+2022
+: Examination of Anomalous Self-Experience (24 hours)
+
+2022
+: Present State Examination training (24 hours)
+
+2019–2020
+: Dynamic and cognitive therapy (60 hours)
+
+2019–2020
+: Introduction to adult psychiatry (50 hours)
+
+2013
+: Clinical sexology elective, University of Copenhagen (two weeks)
+
+## Grants
+
+As grant holder
+
+2026–
+: Region Hovedstadens Forskningsfond, DKK 0.60 million <small>Precision psychiatry for women and men: integrating EEG biomarkers with hormonal information to predict antidepressant effects and side effects</small>
+
+2026
+: Rigshospitalets Forskningsfond, DKK 0.12 million <small>Alexithymia and SSRI-induced emotional blunting during depression and its treatment</small>
+
+2026
+: DPS-Lundbeck, DKK 0.12 million <small>Pineal and pituitary architecture and sleep disturbance in major depressive disorder</small>
+
+As co-grant holder
+
+2025–
+: Independent Research Fund Denmark (DFF), Bedre Psykiatri, DKK 4.2 million <small>Cognition and brain biomarkers as determinants of treatment trajectory and outcomes in first-episode depression</small>
+
+2025–
+: Wørzners Mindelegat, DKK 0.9 million <small>EEG biomarkers for optimising treatment choice in depression</small>
+
+Various
+: Research-year scholarships for students, more than DKK 2 million in total <small>DPS-Lundbeck, Aarhus University, Carl P. Pedersens Fond and others</small>
+
+## Teaching and supervision
+
+See [Teaching and supervision](teaching.qmd) for details.
+
+2018–
+: Lecturer and examiner on two courses in human neuroanatomy, neurophysiology and neuropathology for non-clinicians, University of Copenhagen
+
+2014–2015
+: Group teaching and tutorials in neuroanatomy for second-year medical students, University of Copenhagen
+
+Supervision
+: One PhD student (primary co-supervisor), and to date more than 20 master's and bachelor's students in medicine and in medicine and technology
+
+## Talks, conferences and awards
+
+2025
+: Speaker, Organisation for Human Brain Mapping annual meeting
+
+2023, 2025
+: Speaker, continued education meetings for practising psychiatrists, gynaecologists and midwives
+
+2019–2025
+: Poster and oral presentations, Danish Psychiatric Society annual meetings
+
+2023
+: Gender in Research Fellowship, Erasmus University Medical Center
+
+2019, 2021, 2023
+: Poster presentations, European College of Neuropsychopharmacology Congress
+
+2022
+: Oral presentations, Rigshospitalet's Young Researchers competition and the Region Hovedstaden psychotherapy research annual meeting
+
+2018
+: Fellowship Award with oral presentation, Japanese Society of Psychiatry and Neurology, Kobe
+
+2017
+: Oral presentation, Brain Prize meeting, Hindsgavl
+
+2016
+: Invited speaker, Donders Discussions PhD symposium, Nijmegen
+
+2016
+: Best poster presentation, FENS computational psychiatry meeting, Copenhagen
+
+2016
+: Travel bursary, British Association for Psychopharmacology
+
+2015
+: Research scholarship, Medical Society of Copenhagen
+
+2015
+: Best Young Investigator Talk, Department of Neuroscience and Pharmacology annual meeting, Copenhagen
+
+## Research leadership and collaborations
+
+As a PhD student I established the ongoing BrainDrugs-Depression cohort, secured ethical approval and assembled a team of more than twenty medical and engineering students who assist with data acquisition. I have served as primary study physician on a clinical drug trial in obsessive-compulsive disorder (NCT04336228) and as supporting physician on psychedelic studies (NCT03289949).
+
+I collaborate with Sebastian Olbrich (University of Zurich) on EEG biomarkers, Cheng-Teng Ip (University of Macau), and Brenda Penninx and Laura Han (Amsterdam UMC), and with industry partners including AbbVie, Advanced Brain Monitoring and GLX Analytix.
+
+## Publications
+
+See the [publications page](publications.qmd).
+
+:::
