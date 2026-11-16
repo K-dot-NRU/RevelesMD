@@ -5,7 +5,7 @@ on:
     branches: [main]
   workflow_dispatch:
   workflow_run:
-    workflows: ["Update publications from Google Scholar"]
+    workflows: ["Update publications"]
     types: [completed]
 
 permissions:

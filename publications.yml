@@ -1,4 +1,4 @@
-# Publication list. Refreshed automatically from Google Scholar (see R/update_publications.R);
+# Publication list. New papers are added automatically from PubMed (see scripts/update_publications.py);
 # fields you add or correct by hand are kept.
 #
 # Optional fields per paper:

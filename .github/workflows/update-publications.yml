@@ -1,4 +1,4 @@
-name: Update publications from Google Scholar
+name: Update publications
 
 on:
   schedule:
@@ -13,22 +13,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: r-lib/actions/setup-r@v2
-        with:
-          use-public-rspm: true
-      - uses: r-lib/actions/setup-r-dependencies@v2
-        with:
-          packages: |
-            any::tidyverse
-            any::scholar
-            any::yaml
-            any::jsonlite
-      - name: Import from Google Scholar
-        run: Rscript R/update_publications.R
+      - name: Look for new papers
+        run: |
+          python3 -m pip install --quiet pyyaml
+          python3 scripts/update_publications.py
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add publications.yml
-          git diff --cached --quiet || git commit -m "Update publications from Google Scholar"
+          git diff --cached --quiet || git commit -m "Update publications"
           git push
