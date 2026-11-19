@@ -1,7 +1,7 @@
 # One entry per press piece, podcast or broadcast. Add new ones at the top.
 # Fields: title, outlet, year, date (YYYY-MM-DD), kind, language, url (optional).
 - title: Podcast episode on premenstrual dysphoric disorder (PMDD)
-  outlet: Gloria Media House for Københavns Kommune
+  outlet: Københavns Kommune
   year: 2026
   date: '2026-01-01'
   kind: Podcast
