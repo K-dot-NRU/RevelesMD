@@ -95,3 +95,10 @@ a.badge-icon:hover { color: #fff; filter: brightness(1.15); }
 .tool-actions .btn-primary { background: $accent; border-color: $accent; }
 .tool-note { font-size: 0.92rem; color: $muted; margin-bottom: 0.45rem; }
 .tool-note strong { color: $ink; font-weight: 600; }
+
+.badge-icon.b-meta { background: #5b4b8a; }
+.pub-filter { display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem; margin: 0.6rem 0 0.2rem; }
+.pub-filter button { font: inherit; font-size: 0.9rem; padding: 0.25rem 0.75rem; border: 1px solid $rule; border-radius: 999px; background: #fff; color: $ink; cursor: pointer; }
+.pub-filter button:hover { border-color: $accent; }
+.pub-filter button.active { background: $accent; border-color: $accent; color: #fff; }
+.pub-filter .pub-count { margin-left: 0.4rem; font-size: 0.9rem; }

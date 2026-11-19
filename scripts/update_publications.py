@@ -112,6 +112,10 @@ def main():
             p["oa_url"] = oa["oa_url"]
         time.sleep(0.2)
 
+    for p in pubs:
+        if "meta_analysis" not in p and re.search(r"meta-?analys", str(p.get("title", "")), re.I):
+            p["meta_analysis"] = True
+
     pubs.sort(key=lambda p: str(p.get("date", "1900-01-01")), reverse=True)
     after = yaml.safe_dump(pubs, allow_unicode=True, sort_keys=False)
     if after != before:

@@ -7,6 +7,7 @@
 #   open_code:       link to analysis code
 #   preregistration: link to the preregistration (AsPredicted, OSF, PROSPERO), or true if there is no public link
 #   preclinical:     short label for animal or in vitro work, e.g. mouse
+#   meta_analysis:   true for a systematic review or meta-analysis (set automatically from the title)
 #   hide:            true to keep a paper off the site
 - title: Choroid plexus enlargement in unmedicated major depressive disorder inflammation, oxidative stress and treatment outcome
   author: Jensen KHR, Alakhir S, Köhler-Forsberg K, Falk K, Pernet C, Frokjaer VG, Jørgensen MB, Jørgensen A
@@ -16,6 +17,7 @@
   pmid: '43051383'
   doi: 10.1016/j.bbi.2026.107283
   url: https://doi.org/10.1016/j.bbi.2026.107283
+  preregistration: true
 - title: Investigating molecular and hemodynamic effects of LSD in the human brain
   author: McCulloch DE, Larsen K, Johansen A, Reveles Jensen KH, Nykjær CH, Holze F, Falck N, Neufeld V, Steenstrup E, Skov-Andersen P, Spanggård A, Geisler M, Randrup PP, Jensen PS, Shalgunov V, Johansen SS, Nielsen MKK, Andersen TL, Stenbæk DS, Svarer C, Fisher PM, Knudsen GM
   journal: Nature Neuroscience
@@ -53,6 +55,7 @@
   url: https://doi.org/10.1111/pcn.70112
   pmc: PMC13732787
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC13732787/pdf/
+  preregistration: true
 - title: 'Pineal Gland Volume, Sleep Quality, and Psychiatric Disorders: A Systematic Review and Meta-Analysis'
   author: Bolwig S, Jensen KHR
   journal: Acta Psychiatrica Scandinavica
@@ -64,6 +67,7 @@
   pmc: PMC13242971
   pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC13242971/pdf/
   preregistration: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251138624
+  meta_analysis: true
 - title: 'Prefrontal and hippocampal microstructural gray matter following cognitive training under moderate hypoxia in mood disorders: a randomized controlled trial'
   author: Jensen KHR, Østergaard IP, Damgaard V, Schandorff JM, Macoveanu J, Pernet C, Julsgart HW, Johansen A, Brendstrup-Brix K, Kessing LV, Jørgensen MB, Ehrenreich H, Knudsen GM, Miskowiak K
   journal: Frontiers in Neuroscience
@@ -100,6 +104,7 @@
   pmid: '41456530'
   doi: 10.1016/j.euroneuro.2025.112744
   url: https://doi.org/10.1016/j.euroneuro.2025.112744
+  preregistration: true
 - title: Serotonergic activity estimated by EEG loudness-dependent auditory evoked potentials as a predictor of sexual SSRI side effects
   author: Ketilsdottir GD, Ip CT, Frokjaer VG, Giraldi A, Jørgensen MB, Reveles Jensen KH
   journal: Journal of Psychiatric Research
@@ -152,8 +157,9 @@
   pmid: '39613043'
   doi: 10.1016/j.jad.2024.11.073
   url: https://doi.org/10.1016/j.jad.2024.11.073
-  preregistration: true
+  preregistration: https://aspredicted.org/see_one.php?a=WMyaQwVoxs_O3C_x0NvK9kzf_omSX_bm7tVn6wcUhys
   oa_url: https://doi.org/10.1016/j.jad.2024.11.073
+  meta_analysis: true
 - title: Changes in hippocampal volume, 5-HT4 receptor binding, and verbal memory over the course of antidepressant treatment in major depressive disorder
   author: Jensen KHR, Dam VH, Köhler-Forsberg K, Ozenne B, Stenbæk DS, Ganz M, Fisher PM, Frokjaer VG, Knudsen GM, Jørgensen MB
   journal: Journal of Psychiatric Research

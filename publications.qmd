@@ -17,8 +17,41 @@ Publications, newest first. The list is updated automatically; see also my [Goog
 <li><span class="badge-icon b-data"><i class="bi bi-database" aria-hidden="true"></i></span> Open data</li>
 <li><span class="badge-icon b-code"><i class="bi bi-code-slash" aria-hidden="true"></i></span> Open code</li>
 <li><span class="badge-icon b-prereg"><i class="bi bi-clipboard-check" aria-hidden="true"></i></span> Preregistered</li>
+<li><span class="badge-icon b-meta"><i class="bi bi-layers" aria-hidden="true"></i></span> Meta-analysis</li>
 <li><span class="badge-icon b-preclin"><svg viewBox="0 0 24 24" width="1.45em" height="1.45em" aria-hidden="true"><ellipse cx="11" cy="15" rx="7.5" ry="4.6" fill="currentColor"/><circle cx="17.2" cy="12.4" r="3.4" fill="currentColor"/><circle cx="15.6" cy="8.6" r="2.3" fill="currentColor"/><path d="M19.800 12.200l3 1.600-2.700 1.100z" fill="currentColor"/><path d="M3.800 16.500C1.500 17.500 1 19.500 2.200 21" fill="none" stroke="currentColor" stroke-width="1.400" stroke-linecap="round"/></svg></span> Preclinical or animal work</li>
 </ul>
+```
+
+```{=html}
+<div class="pub-filter" role="group" aria-label="Show only">
+<button type="button" class="active" data-filter="">All</button>
+<button type="button" data-filter="meta"><i class="bi bi-layers" aria-hidden="true"></i> Meta-analyses</button>
+<button type="button" data-filter="prereg"><i class="bi bi-clipboard-check" aria-hidden="true"></i> Preregistered</button>
+<button type="button" data-filter="open"><i class="bi bi-database" aria-hidden="true"></i> Open data or code</button>
+<button type="button" data-filter="preclin">Preclinical</button>
+<button type="button" data-filter="pdf"><i class="bi bi-file-earmark-pdf" aria-hidden="true"></i> With PDF</button>
+<span class="pub-count muted"></span>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const box = document.querySelector(".pub-filter");
+  const count = box.querySelector(".pub-count");
+  const apply = (tag) => {
+    let n = 0;
+    document.querySelectorAll("#listing-pubs .entry-list > li").forEach((li) => {
+      const show = !tag || (li.dataset.tags || "").split(" ").includes(tag);
+      li.style.display = show ? "" : "none";
+      if (show) n++;
+    });
+    count.textContent = n + (n === 1 ? " paper" : " papers");
+  };
+  box.querySelectorAll("button").forEach((b) => b.addEventListener("click", () => {
+    box.querySelectorAll("button").forEach((x) => x.classList.toggle("active", x === b));
+    apply(b.dataset.filter);
+  }));
+  apply("");
+});
+</script>
 ```
 
 ::: {#pubs}
