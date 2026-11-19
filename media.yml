@@ -1,11 +1,12 @@
 # One entry per press piece, podcast or broadcast. Add new ones at the top.
 # Fields: title, outlet, year, date (YYYY-MM-DD), kind, language, url (optional).
-- title: Podcast episode on premenstrual dysphoric disorder (PMDD)
-  outlet: Københavns Kommune
-  year: 2026
-  date: '2026-01-01'
-  kind: Podcast
-  language: Danish
+- title: A brain test may predict antidepressant-related sexual problems, early research suggests
+  outlet: CNN
+  year: 2025
+  date: '2025-10-12'
+  kind: Interview
+  language: English
+  url: https://edition.cnn.com/2025/10/12/health/antidepressant-sexual-dysfunction-brain-test-wellness
 - title: Hormonal contraception under scrutiny, but some women report mental health benefits
   outlet: University Post (Uniavisen), University of Copenhagen
   year: 2025
