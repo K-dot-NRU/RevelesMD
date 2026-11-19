@@ -122,7 +122,7 @@ Various
 See [Teaching and supervision](teaching.qmd) for details.
 
 2018–
-: Lecturer and examiner on two courses in human neuroanatomy, neurophysiology and neuropathology for non-clinicians, University of Copenhagen
+: Lecturer and examiner in neuroanatomy, neurophysiology and neuropathology, University of Copenhagen <small>[Human Diseases for Non-Clinicians](https://kurser.ku.dk/course/smtb15002u/2026-2027), Medicine and Technology; [Human Biology](https://kurser.ku.dk/course/sfob20001u/2024-2025), Public Health Science</small>
 
 2014–2015
 : Group teaching and tutorials in neuroanatomy for second-year medical students, University of Copenhagen
